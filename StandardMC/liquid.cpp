@@ -857,12 +857,14 @@ void liquid::appendOutConfig(){
   trjfile<<N<<"\nBox "<< box->x[0] <<" "<< box->x[1] <<" "<< box->x[2] <<endl;
 
   for (int i=0; i<N; i++){
-    if (ghostIndex==i)
-      trjfile <<"G "<< part[i].R[0] << " " << part[i].R[1]  << " "<< part[i].R[2] << endl;
-    else if (i<NB)
-    trjfile <<"B "<< part[i].R[0] << " " << part[i].R[1]  << " "<< part[i].R[2] << endl;
-    else
-    trjfile <<"A "<< part[i].R[0] << " " << part[i].R[1]  << " " << part[i].R[2] << endl;
+
+    trjfile <<part[i].type<<" "<< part[i].R[0] << " " << part[i].R[1]  << " "<< part[i].R[2] << endl;
+    // if (ghostIndex==i)
+    //   trjfile <<"G "<< part[i].R[0] << " " << part[i].R[1]  << " "<< part[i].R[2] << endl;
+    // else if (i<NB)
+    // trjfile <<"B "<< part[i].R[0] << " " << part[i].R[1]  << " "<< part[i].R[2] << endl;
+    // else
+    // trjfile <<"A "<< part[i].R[0] << " " << part[i].R[1]  << " " << part[i].R[2] << endl;
   }
 
   
