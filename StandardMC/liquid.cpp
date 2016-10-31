@@ -274,7 +274,7 @@ void liquid::stageMove(bool sampling){
     cumulatedCount++;
     Energies.push_back(Htotal/N);
     timestamps.push_back(tictac);
-  }
+    }
 
   }
   else if(stage>numStages){

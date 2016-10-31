@@ -10,11 +10,11 @@
 #include <random>
 #include <vector>
 #include <fstream>
-#include  <gsl/gsl_errno.h>
-#include <gsl/gsl_math.h>
-#include <gsl/gsl_vector.h>     
+// #include  <gsl/gsl_errno.h>
+// #include <gsl/gsl_math.h>
+// #include <gsl/gsl_vector.h>     
 // gsl vector stuff
-#include <gsl/gsl_multimin.h>
+// #include <gsl/gsl_multimin.h>
 // gsl multidimensional minimization 
 
 class liquid {
