@@ -1,0 +1,4026 @@
+# Parameterfile: input
+Temperature 0.60
+Seed 1
+EqSteps 100000
+McSteps 100000
+EqEvalSteps 1000
+McEvalSteps 1000
+EqSnapSteps 1
+McSnapSteps 0
+MaxDisplacement 0.1
+LJCutoff 2.5
+StageOnOff 0
+The number of particles is 216
+Opening file trajectory-T0.6-stage0.xyz
+# read parameters and configuration
+# N 216 Temperature 0.6 beta 1.66667
+The box dimensions are 5.64622 5.64622 5.64622
+# Box dimension is less than 3*largest cutoff.
+# Not using cell system.
+# Eqsteps = 100000 MCsteps = 100000
+# Starting energy: -1495.73
+-6.92467
+The minimum is 0
+# Eq  Energy StageAccept Stage
+100 -6.69718 0 4
+# Eq  Energy StageAccept Stage
+200 -6.81333 0 4
+# Eq  Energy StageAccept Stage
+300 -6.70776 0 4
+# Eq  Energy StageAccept Stage
+400 -6.84022 0 4
+# Eq  Energy StageAccept Stage
+500 -6.8058 0 4
+# Eq  Energy StageAccept Stage
+600 -6.76269 0 4
+# Eq  Energy StageAccept Stage
+700 -6.7597 0 4
+# Eq  Energy StageAccept Stage
+800 -6.80145 0 4
+# Eq  Energy StageAccept Stage
+900 -6.78388 0 4
+# Eq  Energy StageAccept Stage
+1000 -6.75838 0 4
+# Eq  Energy StageAccept Stage
+1100 -6.71128 0 4
+# Eq  Energy StageAccept Stage
+1200 -6.71064 0 4
+# Eq  Energy StageAccept Stage
+1300 -6.76378 0 4
+# Eq  Energy StageAccept Stage
+1400 -6.72146 0 4
+# Eq  Energy StageAccept Stage
+1500 -6.7166 0 4
+# Eq  Energy StageAccept Stage
+1600 -6.70565 0 4
+# Eq  Energy StageAccept Stage
+1700 -6.77733 0 4
+# Eq  Energy StageAccept Stage
+1800 -6.77476 0 4
+# Eq  Energy StageAccept Stage
+1900 -6.67219 0 4
+# Eq  Energy StageAccept Stage
+2000 -6.75092 0 4
+# Eq  Energy StageAccept Stage
+2100 -6.82807 0 4
+# Eq  Energy StageAccept Stage
+2200 -6.79627 0 4
+# Eq  Energy StageAccept Stage
+2300 -6.8116 0 4
+# Eq  Energy StageAccept Stage
+2400 -6.73922 0 4
+# Eq  Energy StageAccept Stage
+2500 -6.68354 0 4
+# Eq  Energy StageAccept Stage
+2600 -6.64401 0 4
+# Eq  Energy StageAccept Stage
+2700 -6.72764 0 4
+# Eq  Energy StageAccept Stage
+2800 -6.7998 0 4
+# Eq  Energy StageAccept Stage
+2900 -6.77663 0 4
+# Eq  Energy StageAccept Stage
+3000 -6.7536 0 4
+# Eq  Energy StageAccept Stage
+3100 -6.65521 0 4
+# Eq  Energy StageAccept Stage
+3200 -6.74106 0 4
+# Eq  Energy StageAccept Stage
+3300 -6.78922 0 4
+# Eq  Energy StageAccept Stage
+3400 -6.76959 0 4
+# Eq  Energy StageAccept Stage
+3500 -6.72196 0 4
+# Eq  Energy StageAccept Stage
+3600 -6.72437 0 4
+# Eq  Energy StageAccept Stage
+3700 -6.82498 0 4
+# Eq  Energy StageAccept Stage
+3800 -6.70347 0 4
+# Eq  Energy StageAccept Stage
+3900 -6.65796 0 4
+# Eq  Energy StageAccept Stage
+4000 -6.64782 0 4
+# Eq  Energy StageAccept Stage
+4100 -6.74296 0 4
+# Eq  Energy StageAccept Stage
+4200 -6.76479 0 4
+# Eq  Energy StageAccept Stage
+4300 -6.71625 0 4
+# Eq  Energy StageAccept Stage
+4400 -6.71783 0 4
+# Eq  Energy StageAccept Stage
+4500 -6.74416 0 4
+# Eq  Energy StageAccept Stage
+4600 -6.79385 0 4
+# Eq  Energy StageAccept Stage
+4700 -6.68322 0 4
+# Eq  Energy StageAccept Stage
+4800 -6.8074 0 4
+# Eq  Energy StageAccept Stage
+4900 -6.71504 0 4
+# Eq  Energy StageAccept Stage
+5000 -6.7365 0 4
+# Eq  Energy StageAccept Stage
+5100 -6.76466 0 4
+# Eq  Energy StageAccept Stage
+5200 -6.62199 0 4
+# Eq  Energy StageAccept Stage
+5300 -6.81501 0 4
+# Eq  Energy StageAccept Stage
+5400 -6.67351 0 4
+# Eq  Energy StageAccept Stage
+5500 -6.74209 0 4
+# Eq  Energy StageAccept Stage
+5600 -6.69638 0 4
+# Eq  Energy StageAccept Stage
+5700 -6.79995 0 4
+# Eq  Energy StageAccept Stage
+5800 -6.71389 0 4
+# Eq  Energy StageAccept Stage
+5900 -6.81988 0 4
+# Eq  Energy StageAccept Stage
+6000 -6.72658 0 4
+# Eq  Energy StageAccept Stage
+6100 -6.57178 0 4
+# Eq  Energy StageAccept Stage
+6200 -6.64269 0 4
+# Eq  Energy StageAccept Stage
+6300 -6.73545 0 4
+# Eq  Energy StageAccept Stage
+6400 -6.5981 0 4
+# Eq  Energy StageAccept Stage
+6500 -6.70555 0 4
+# Eq  Energy StageAccept Stage
+6600 -6.72769 0 4
+# Eq  Energy StageAccept Stage
+6700 -6.77195 0 4
+# Eq  Energy StageAccept Stage
+6800 -6.69672 0 4
+# Eq  Energy StageAccept Stage
+6900 -6.81038 0 4
+# Eq  Energy StageAccept Stage
+7000 -6.69616 0 4
+# Eq  Energy StageAccept Stage
+7100 -6.80704 0 4
+# Eq  Energy StageAccept Stage
+7200 -6.76901 0 4
+# Eq  Energy StageAccept Stage
+7300 -6.76527 0 4
+# Eq  Energy StageAccept Stage
+7400 -6.68156 0 4
+# Eq  Energy StageAccept Stage
+7500 -6.68134 0 4
+# Eq  Energy StageAccept Stage
+7600 -6.7717 0 4
+# Eq  Energy StageAccept Stage
+7700 -6.7323 0 4
+# Eq  Energy StageAccept Stage
+7800 -6.68313 0 4
+# Eq  Energy StageAccept Stage
+7900 -6.72559 0 4
+# Eq  Energy StageAccept Stage
+8000 -6.66995 0 4
+# Eq  Energy StageAccept Stage
+8100 -6.77934 0 4
+# Eq  Energy StageAccept Stage
+8200 -6.71383 0 4
+# Eq  Energy StageAccept Stage
+8300 -6.71283 0 4
+# Eq  Energy StageAccept Stage
+8400 -6.79215 0 4
+# Eq  Energy StageAccept Stage
+8500 -6.71273 0 4
+# Eq  Energy StageAccept Stage
+8600 -6.78493 0 4
+# Eq  Energy StageAccept Stage
+8700 -6.79623 0 4
+# Eq  Energy StageAccept Stage
+8800 -6.72631 0 4
+# Eq  Energy StageAccept Stage
+8900 -6.80277 0 4
+# Eq  Energy StageAccept Stage
+9000 -6.7618 0 4
+# Eq  Energy StageAccept Stage
+9100 -6.73935 0 4
+# Eq  Energy StageAccept Stage
+9200 -6.8006 0 4
+# Eq  Energy StageAccept Stage
+9300 -6.70485 0 4
+# Eq  Energy StageAccept Stage
+9400 -6.72642 0 4
+# Eq  Energy StageAccept Stage
+9500 -6.7099 0 4
+# Eq  Energy StageAccept Stage
+9600 -6.73243 0 4
+# Eq  Energy StageAccept Stage
+9700 -6.66533 0 4
+# Eq  Energy StageAccept Stage
+9800 -6.7103 0 4
+# Eq  Energy StageAccept Stage
+9900 -6.70636 0 4
+# Eq  Energy StageAccept Stage
+10000 -6.75157 0 4
+# Eq  Energy StageAccept Stage
+10100 -6.74011 0 4
+# Eq  Energy StageAccept Stage
+10200 -6.67615 0 4
+# Eq  Energy StageAccept Stage
+10300 -6.73958 0 4
+# Eq  Energy StageAccept Stage
+10400 -6.79895 0 4
+# Eq  Energy StageAccept Stage
+10500 -6.73179 0 4
+# Eq  Energy StageAccept Stage
+10600 -6.79219 0 4
+# Eq  Energy StageAccept Stage
+10700 -6.69574 0 4
+# Eq  Energy StageAccept Stage
+10800 -6.68409 0 4
+# Eq  Energy StageAccept Stage
+10900 -6.70858 0 4
+# Eq  Energy StageAccept Stage
+11000 -6.72455 0 4
+# Eq  Energy StageAccept Stage
+11100 -6.75091 0 4
+# Eq  Energy StageAccept Stage
+11200 -6.75696 0 4
+# Eq  Energy StageAccept Stage
+11300 -6.68041 0 4
+# Eq  Energy StageAccept Stage
+11400 -6.79655 0 4
+# Eq  Energy StageAccept Stage
+11500 -6.71109 0 4
+# Eq  Energy StageAccept Stage
+11600 -6.78807 0 4
+# Eq  Energy StageAccept Stage
+11700 -6.70702 0 4
+# Eq  Energy StageAccept Stage
+11800 -6.73195 0 4
+# Eq  Energy StageAccept Stage
+11900 -6.72942 0 4
+# Eq  Energy StageAccept Stage
+12000 -6.74979 0 4
+# Eq  Energy StageAccept Stage
+12100 -6.78851 0 4
+# Eq  Energy StageAccept Stage
+12200 -6.75609 0 4
+# Eq  Energy StageAccept Stage
+12300 -6.75689 0 4
+# Eq  Energy StageAccept Stage
+12400 -6.65725 0 4
+# Eq  Energy StageAccept Stage
+12500 -6.7081 0 4
+# Eq  Energy StageAccept Stage
+12600 -6.73557 0 4
+# Eq  Energy StageAccept Stage
+12700 -6.76424 0 4
+# Eq  Energy StageAccept Stage
+12800 -6.68189 0 4
+# Eq  Energy StageAccept Stage
+12900 -6.75677 0 4
+# Eq  Energy StageAccept Stage
+13000 -6.6392 0 4
+# Eq  Energy StageAccept Stage
+13100 -6.68134 0 4
+# Eq  Energy StageAccept Stage
+13200 -6.67316 0 4
+# Eq  Energy StageAccept Stage
+13300 -6.63422 0 4
+# Eq  Energy StageAccept Stage
+13400 -6.67242 0 4
+# Eq  Energy StageAccept Stage
+13500 -6.72432 0 4
+# Eq  Energy StageAccept Stage
+13600 -6.70501 0 4
+# Eq  Energy StageAccept Stage
+13700 -6.66772 0 4
+# Eq  Energy StageAccept Stage
+13800 -6.65522 0 4
+# Eq  Energy StageAccept Stage
+13900 -6.70628 0 4
+# Eq  Energy StageAccept Stage
+14000 -6.78417 0 4
+# Eq  Energy StageAccept Stage
+14100 -6.57944 0 4
+# Eq  Energy StageAccept Stage
+14200 -6.71278 0 4
+# Eq  Energy StageAccept Stage
+14300 -6.68932 0 4
+# Eq  Energy StageAccept Stage
+14400 -6.77453 0 4
+# Eq  Energy StageAccept Stage
+14500 -6.78219 0 4
+# Eq  Energy StageAccept Stage
+14600 -6.7645 0 4
+# Eq  Energy StageAccept Stage
+14700 -6.76508 0 4
+# Eq  Energy StageAccept Stage
+14800 -6.78625 0 4
+# Eq  Energy StageAccept Stage
+14900 -6.71185 0 4
+# Eq  Energy StageAccept Stage
+15000 -6.75825 0 4
+# Eq  Energy StageAccept Stage
+15100 -6.68355 0 4
+# Eq  Energy StageAccept Stage
+15200 -6.72216 0 4
+# Eq  Energy StageAccept Stage
+15300 -6.81529 0 4
+# Eq  Energy StageAccept Stage
+15400 -6.66411 0 4
+# Eq  Energy StageAccept Stage
+15500 -6.59878 0 4
+# Eq  Energy StageAccept Stage
+15600 -6.67628 0 4
+# Eq  Energy StageAccept Stage
+15700 -6.64786 0 4
+# Eq  Energy StageAccept Stage
+15800 -6.67981 0 4
+# Eq  Energy StageAccept Stage
+15900 -6.76619 0 4
+# Eq  Energy StageAccept Stage
+16000 -6.66832 0 4
+# Eq  Energy StageAccept Stage
+16100 -6.71806 0 4
+# Eq  Energy StageAccept Stage
+16200 -6.59265 0 4
+# Eq  Energy StageAccept Stage
+16300 -6.79705 0 4
+# Eq  Energy StageAccept Stage
+16400 -6.67088 0 4
+# Eq  Energy StageAccept Stage
+16500 -6.71657 0 4
+# Eq  Energy StageAccept Stage
+16600 -6.67335 0 4
+# Eq  Energy StageAccept Stage
+16700 -6.7013 0 4
+# Eq  Energy StageAccept Stage
+16800 -6.6669 0 4
+# Eq  Energy StageAccept Stage
+16900 -6.68265 0 4
+# Eq  Energy StageAccept Stage
+17000 -6.73577 0 4
+# Eq  Energy StageAccept Stage
+17100 -6.64245 0 4
+# Eq  Energy StageAccept Stage
+17200 -6.7298 0 4
+# Eq  Energy StageAccept Stage
+17300 -6.60584 0 4
+# Eq  Energy StageAccept Stage
+17400 -6.74558 0 4
+# Eq  Energy StageAccept Stage
+17500 -6.73721 0 4
+# Eq  Energy StageAccept Stage
+17600 -6.67177 0 4
+# Eq  Energy StageAccept Stage
+17700 -6.64769 0 4
+# Eq  Energy StageAccept Stage
+17800 -6.66019 0 4
+# Eq  Energy StageAccept Stage
+17900 -6.65803 0 4
+# Eq  Energy StageAccept Stage
+18000 -6.60423 0 4
+# Eq  Energy StageAccept Stage
+18100 -6.69814 0 4
+# Eq  Energy StageAccept Stage
+18200 -6.73648 0 4
+# Eq  Energy StageAccept Stage
+18300 -6.76655 0 4
+# Eq  Energy StageAccept Stage
+18400 -6.59792 0 4
+# Eq  Energy StageAccept Stage
+18500 -6.77425 0 4
+# Eq  Energy StageAccept Stage
+18600 -6.69225 0 4
+# Eq  Energy StageAccept Stage
+18700 -6.70697 0 4
+# Eq  Energy StageAccept Stage
+18800 -6.74572 0 4
+# Eq  Energy StageAccept Stage
+18900 -6.81043 0 4
+# Eq  Energy StageAccept Stage
+19000 -6.6913 0 4
+# Eq  Energy StageAccept Stage
+19100 -6.75591 0 4
+# Eq  Energy StageAccept Stage
+19200 -6.59122 0 4
+# Eq  Energy StageAccept Stage
+19300 -6.77482 0 4
+# Eq  Energy StageAccept Stage
+19400 -6.70465 0 4
+# Eq  Energy StageAccept Stage
+19500 -6.72791 0 4
+# Eq  Energy StageAccept Stage
+19600 -6.79425 0 4
+# Eq  Energy StageAccept Stage
+19700 -6.68762 0 4
+# Eq  Energy StageAccept Stage
+19800 -6.74159 0 4
+# Eq  Energy StageAccept Stage
+19900 -6.7263 0 4
+# Eq  Energy StageAccept Stage
+20000 -6.76713 0 4
+# Eq  Energy StageAccept Stage
+20100 -6.68307 0 4
+# Eq  Energy StageAccept Stage
+20200 -6.73303 0 4
+# Eq  Energy StageAccept Stage
+20300 -6.72678 0 4
+# Eq  Energy StageAccept Stage
+20400 -6.61147 0 4
+# Eq  Energy StageAccept Stage
+20500 -6.63881 0 4
+# Eq  Energy StageAccept Stage
+20600 -6.6484 0 4
+# Eq  Energy StageAccept Stage
+20700 -6.64925 0 4
+# Eq  Energy StageAccept Stage
+20800 -6.63606 0 4
+# Eq  Energy StageAccept Stage
+20900 -6.68356 0 4
+# Eq  Energy StageAccept Stage
+21000 -6.68288 0 4
+# Eq  Energy StageAccept Stage
+21100 -6.69012 0 4
+# Eq  Energy StageAccept Stage
+21200 -6.68631 0 4
+# Eq  Energy StageAccept Stage
+21300 -6.67966 0 4
+# Eq  Energy StageAccept Stage
+21400 -6.75267 0 4
+# Eq  Energy StageAccept Stage
+21500 -6.67306 0 4
+# Eq  Energy StageAccept Stage
+21600 -6.69475 0 4
+# Eq  Energy StageAccept Stage
+21700 -6.72425 0 4
+# Eq  Energy StageAccept Stage
+21800 -6.75445 0 4
+# Eq  Energy StageAccept Stage
+21900 -6.69785 0 4
+# Eq  Energy StageAccept Stage
+22000 -6.65492 0 4
+# Eq  Energy StageAccept Stage
+22100 -6.67108 0 4
+# Eq  Energy StageAccept Stage
+22200 -6.63397 0 4
+# Eq  Energy StageAccept Stage
+22300 -6.63719 0 4
+# Eq  Energy StageAccept Stage
+22400 -6.64899 0 4
+# Eq  Energy StageAccept Stage
+22500 -6.7163 0 4
+# Eq  Energy StageAccept Stage
+22600 -6.69661 0 4
+# Eq  Energy StageAccept Stage
+22700 -6.72458 0 4
+# Eq  Energy StageAccept Stage
+22800 -6.75918 0 4
+# Eq  Energy StageAccept Stage
+22900 -6.74326 0 4
+# Eq  Energy StageAccept Stage
+23000 -6.69663 0 4
+# Eq  Energy StageAccept Stage
+23100 -6.64054 0 4
+# Eq  Energy StageAccept Stage
+23200 -6.68654 0 4
+# Eq  Energy StageAccept Stage
+23300 -6.73371 0 4
+# Eq  Energy StageAccept Stage
+23400 -6.61431 0 4
+# Eq  Energy StageAccept Stage
+23500 -6.69635 0 4
+# Eq  Energy StageAccept Stage
+23600 -6.65605 0 4
+# Eq  Energy StageAccept Stage
+23700 -6.71712 0 4
+# Eq  Energy StageAccept Stage
+23800 -6.73601 0 4
+# Eq  Energy StageAccept Stage
+23900 -6.75418 0 4
+# Eq  Energy StageAccept Stage
+24000 -6.71162 0 4
+# Eq  Energy StageAccept Stage
+24100 -6.7149 0 4
+# Eq  Energy StageAccept Stage
+24200 -6.62806 0 4
+# Eq  Energy StageAccept Stage
+24300 -6.62781 0 4
+# Eq  Energy StageAccept Stage
+24400 -6.69659 0 4
+# Eq  Energy StageAccept Stage
+24500 -6.70729 0 4
+# Eq  Energy StageAccept Stage
+24600 -6.66364 0 4
+# Eq  Energy StageAccept Stage
+24700 -6.61824 0 4
+# Eq  Energy StageAccept Stage
+24800 -6.71763 0 4
+# Eq  Energy StageAccept Stage
+24900 -6.6952 0 4
+# Eq  Energy StageAccept Stage
+25000 -6.68714 0 4
+# Eq  Energy StageAccept Stage
+25100 -6.73998 0 4
+# Eq  Energy StageAccept Stage
+25200 -6.71842 0 4
+# Eq  Energy StageAccept Stage
+25300 -6.73272 0 4
+# Eq  Energy StageAccept Stage
+25400 -6.65091 0 4
+# Eq  Energy StageAccept Stage
+25500 -6.66975 0 4
+# Eq  Energy StageAccept Stage
+25600 -6.72219 0 4
+# Eq  Energy StageAccept Stage
+25700 -6.6634 0 4
+# Eq  Energy StageAccept Stage
+25800 -6.73081 0 4
+# Eq  Energy StageAccept Stage
+25900 -6.77825 0 4
+# Eq  Energy StageAccept Stage
+26000 -6.64576 0 4
+# Eq  Energy StageAccept Stage
+26100 -6.74557 0 4
+# Eq  Energy StageAccept Stage
+26200 -6.65632 0 4
+# Eq  Energy StageAccept Stage
+26300 -6.68725 0 4
+# Eq  Energy StageAccept Stage
+26400 -6.72868 0 4
+# Eq  Energy StageAccept Stage
+26500 -6.60537 0 4
+# Eq  Energy StageAccept Stage
+26600 -6.7181 0 4
+# Eq  Energy StageAccept Stage
+26700 -6.71291 0 4
+# Eq  Energy StageAccept Stage
+26800 -6.67336 0 4
+# Eq  Energy StageAccept Stage
+26900 -6.71082 0 4
+# Eq  Energy StageAccept Stage
+27000 -6.68723 0 4
+# Eq  Energy StageAccept Stage
+27100 -6.72732 0 4
+# Eq  Energy StageAccept Stage
+27200 -6.71992 0 4
+# Eq  Energy StageAccept Stage
+27300 -6.69134 0 4
+# Eq  Energy StageAccept Stage
+27400 -6.68107 0 4
+# Eq  Energy StageAccept Stage
+27500 -6.77125 0 4
+# Eq  Energy StageAccept Stage
+27600 -6.62749 0 4
+# Eq  Energy StageAccept Stage
+27700 -6.67363 0 4
+# Eq  Energy StageAccept Stage
+27800 -6.76454 0 4
+# Eq  Energy StageAccept Stage
+27900 -6.75209 0 4
+# Eq  Energy StageAccept Stage
+28000 -6.7553 0 4
+# Eq  Energy StageAccept Stage
+28100 -6.69228 0 4
+# Eq  Energy StageAccept Stage
+28200 -6.64946 0 4
+# Eq  Energy StageAccept Stage
+28300 -6.70074 0 4
+# Eq  Energy StageAccept Stage
+28400 -6.72054 0 4
+# Eq  Energy StageAccept Stage
+28500 -6.71247 0 4
+# Eq  Energy StageAccept Stage
+28600 -6.80341 0 4
+# Eq  Energy StageAccept Stage
+28700 -6.77057 0 4
+# Eq  Energy StageAccept Stage
+28800 -6.70625 0 4
+# Eq  Energy StageAccept Stage
+28900 -6.76801 0 4
+# Eq  Energy StageAccept Stage
+29000 -6.63775 0 4
+# Eq  Energy StageAccept Stage
+29100 -6.60758 0 4
+# Eq  Energy StageAccept Stage
+29200 -6.71139 0 4
+# Eq  Energy StageAccept Stage
+29300 -6.70401 0 4
+# Eq  Energy StageAccept Stage
+29400 -6.71878 0 4
+# Eq  Energy StageAccept Stage
+29500 -6.64283 0 4
+# Eq  Energy StageAccept Stage
+29600 -6.69334 0 4
+# Eq  Energy StageAccept Stage
+29700 -6.71054 0 4
+# Eq  Energy StageAccept Stage
+29800 -6.72115 0 4
+# Eq  Energy StageAccept Stage
+29900 -6.72969 0 4
+# Eq  Energy StageAccept Stage
+30000 -6.74568 0 4
+# Eq  Energy StageAccept Stage
+30100 -6.7265 0 4
+# Eq  Energy StageAccept Stage
+30200 -6.70833 0 4
+# Eq  Energy StageAccept Stage
+30300 -6.62488 0 4
+# Eq  Energy StageAccept Stage
+30400 -6.68869 0 4
+# Eq  Energy StageAccept Stage
+30500 -6.73673 0 4
+# Eq  Energy StageAccept Stage
+30600 -6.71105 0 4
+# Eq  Energy StageAccept Stage
+30700 -6.6894 0 4
+# Eq  Energy StageAccept Stage
+30800 -6.71139 0 4
+# Eq  Energy StageAccept Stage
+30900 -6.63578 0 4
+# Eq  Energy StageAccept Stage
+31000 -6.70806 0 4
+# Eq  Energy StageAccept Stage
+31100 -6.75646 0 4
+# Eq  Energy StageAccept Stage
+31200 -6.74672 0 4
+# Eq  Energy StageAccept Stage
+31300 -6.70966 0 4
+# Eq  Energy StageAccept Stage
+31400 -6.74115 0 4
+# Eq  Energy StageAccept Stage
+31500 -6.75079 0 4
+# Eq  Energy StageAccept Stage
+31600 -6.68459 0 4
+# Eq  Energy StageAccept Stage
+31700 -6.7071 0 4
+# Eq  Energy StageAccept Stage
+31800 -6.72485 0 4
+# Eq  Energy StageAccept Stage
+31900 -6.72418 0 4
+# Eq  Energy StageAccept Stage
+32000 -6.63488 0 4
+# Eq  Energy StageAccept Stage
+32100 -6.78469 0 4
+# Eq  Energy StageAccept Stage
+32200 -6.73075 0 4
+# Eq  Energy StageAccept Stage
+32300 -6.63859 0 4
+# Eq  Energy StageAccept Stage
+32400 -6.71712 0 4
+# Eq  Energy StageAccept Stage
+32500 -6.7588 0 4
+# Eq  Energy StageAccept Stage
+32600 -6.73565 0 4
+# Eq  Energy StageAccept Stage
+32700 -6.72245 0 4
+# Eq  Energy StageAccept Stage
+32800 -6.74009 0 4
+# Eq  Energy StageAccept Stage
+32900 -6.6297 0 4
+# Eq  Energy StageAccept Stage
+33000 -6.77133 0 4
+# Eq  Energy StageAccept Stage
+33100 -6.74518 0 4
+# Eq  Energy StageAccept Stage
+33200 -6.73849 0 4
+# Eq  Energy StageAccept Stage
+33300 -6.71836 0 4
+# Eq  Energy StageAccept Stage
+33400 -6.67036 0 4
+# Eq  Energy StageAccept Stage
+33500 -6.61997 0 4
+# Eq  Energy StageAccept Stage
+33600 -6.66305 0 4
+# Eq  Energy StageAccept Stage
+33700 -6.66734 0 4
+# Eq  Energy StageAccept Stage
+33800 -6.70228 0 4
+# Eq  Energy StageAccept Stage
+33900 -6.59407 0 4
+# Eq  Energy StageAccept Stage
+34000 -6.7387 0 4
+# Eq  Energy StageAccept Stage
+34100 -6.62162 0 4
+# Eq  Energy StageAccept Stage
+34200 -6.68072 0 4
+# Eq  Energy StageAccept Stage
+34300 -6.60807 0 4
+# Eq  Energy StageAccept Stage
+34400 -6.69879 0 4
+# Eq  Energy StageAccept Stage
+34500 -6.68419 0 4
+# Eq  Energy StageAccept Stage
+34600 -6.64571 0 4
+# Eq  Energy StageAccept Stage
+34700 -6.72335 0 4
+# Eq  Energy StageAccept Stage
+34800 -6.76164 0 4
+# Eq  Energy StageAccept Stage
+34900 -6.7156 0 4
+# Eq  Energy StageAccept Stage
+35000 -6.69966 0 4
+# Eq  Energy StageAccept Stage
+35100 -6.70356 0 4
+# Eq  Energy StageAccept Stage
+35200 -6.67036 0 4
+# Eq  Energy StageAccept Stage
+35300 -6.66562 0 4
+# Eq  Energy StageAccept Stage
+35400 -6.66859 0 4
+# Eq  Energy StageAccept Stage
+35500 -6.5925 0 4
+# Eq  Energy StageAccept Stage
+35600 -6.66264 0 4
+# Eq  Energy StageAccept Stage
+35700 -6.72618 0 4
+# Eq  Energy StageAccept Stage
+35800 -6.64656 0 4
+# Eq  Energy StageAccept Stage
+35900 -6.68926 0 4
+# Eq  Energy StageAccept Stage
+36000 -6.81354 0 4
+# Eq  Energy StageAccept Stage
+36100 -6.70696 0 4
+# Eq  Energy StageAccept Stage
+36200 -6.65442 0 4
+# Eq  Energy StageAccept Stage
+36300 -6.64652 0 4
+# Eq  Energy StageAccept Stage
+36400 -6.61714 0 4
+# Eq  Energy StageAccept Stage
+36500 -6.70934 0 4
+# Eq  Energy StageAccept Stage
+36600 -6.64798 0 4
+# Eq  Energy StageAccept Stage
+36700 -6.68437 0 4
+# Eq  Energy StageAccept Stage
+36800 -6.59892 0 4
+# Eq  Energy StageAccept Stage
+36900 -6.61223 0 4
+# Eq  Energy StageAccept Stage
+37000 -6.61327 0 4
+# Eq  Energy StageAccept Stage
+37100 -6.74694 0 4
+# Eq  Energy StageAccept Stage
+37200 -6.66427 0 4
+# Eq  Energy StageAccept Stage
+37300 -6.72494 0 4
+# Eq  Energy StageAccept Stage
+37400 -6.63838 0 4
+# Eq  Energy StageAccept Stage
+37500 -6.72651 0 4
+# Eq  Energy StageAccept Stage
+37600 -6.66962 0 4
+# Eq  Energy StageAccept Stage
+37700 -6.66328 0 4
+# Eq  Energy StageAccept Stage
+37800 -6.65359 0 4
+# Eq  Energy StageAccept Stage
+37900 -6.6559 0 4
+# Eq  Energy StageAccept Stage
+38000 -6.71585 0 4
+# Eq  Energy StageAccept Stage
+38100 -6.73435 0 4
+# Eq  Energy StageAccept Stage
+38200 -6.65107 0 4
+# Eq  Energy StageAccept Stage
+38300 -6.66196 0 4
+# Eq  Energy StageAccept Stage
+38400 -6.71551 0 4
+# Eq  Energy StageAccept Stage
+38500 -6.70268 0 4
+# Eq  Energy StageAccept Stage
+38600 -6.66701 0 4
+# Eq  Energy StageAccept Stage
+38700 -6.60828 0 4
+# Eq  Energy StageAccept Stage
+38800 -6.6856 0 4
+# Eq  Energy StageAccept Stage
+38900 -6.65832 0 4
+# Eq  Energy StageAccept Stage
+39000 -6.70264 0 4
+# Eq  Energy StageAccept Stage
+39100 -6.66514 0 4
+# Eq  Energy StageAccept Stage
+39200 -6.65887 0 4
+# Eq  Energy StageAccept Stage
+39300 -6.68694 0 4
+# Eq  Energy StageAccept Stage
+39400 -6.58013 0 4
+# Eq  Energy StageAccept Stage
+39500 -6.65722 0 4
+# Eq  Energy StageAccept Stage
+39600 -6.67927 0 4
+# Eq  Energy StageAccept Stage
+39700 -6.69531 0 4
+# Eq  Energy StageAccept Stage
+39800 -6.6799 0 4
+# Eq  Energy StageAccept Stage
+39900 -6.73197 0 4
+# Eq  Energy StageAccept Stage
+40000 -6.69416 0 4
+# Eq  Energy StageAccept Stage
+40100 -6.63195 0 4
+# Eq  Energy StageAccept Stage
+40200 -6.65435 0 4
+# Eq  Energy StageAccept Stage
+40300 -6.73285 0 4
+# Eq  Energy StageAccept Stage
+40400 -6.72063 0 4
+# Eq  Energy StageAccept Stage
+40500 -6.64414 0 4
+# Eq  Energy StageAccept Stage
+40600 -6.69157 0 4
+# Eq  Energy StageAccept Stage
+40700 -6.60251 0 4
+# Eq  Energy StageAccept Stage
+40800 -6.73018 0 4
+# Eq  Energy StageAccept Stage
+40900 -6.67016 0 4
+# Eq  Energy StageAccept Stage
+41000 -6.70209 0 4
+# Eq  Energy StageAccept Stage
+41100 -6.59536 0 4
+# Eq  Energy StageAccept Stage
+41200 -6.62561 0 4
+# Eq  Energy StageAccept Stage
+41300 -6.63075 0 4
+# Eq  Energy StageAccept Stage
+41400 -6.60699 0 4
+# Eq  Energy StageAccept Stage
+41500 -6.71978 0 4
+# Eq  Energy StageAccept Stage
+41600 -6.68706 0 4
+# Eq  Energy StageAccept Stage
+41700 -6.67982 0 4
+# Eq  Energy StageAccept Stage
+41800 -6.66503 0 4
+# Eq  Energy StageAccept Stage
+41900 -6.62731 0 4
+# Eq  Energy StageAccept Stage
+42000 -6.65783 0 4
+# Eq  Energy StageAccept Stage
+42100 -6.59808 0 4
+# Eq  Energy StageAccept Stage
+42200 -6.69373 0 4
+# Eq  Energy StageAccept Stage
+42300 -6.6737 0 4
+# Eq  Energy StageAccept Stage
+42400 -6.639 0 4
+# Eq  Energy StageAccept Stage
+42500 -6.7143 0 4
+# Eq  Energy StageAccept Stage
+42600 -6.6993 0 4
+# Eq  Energy StageAccept Stage
+42700 -6.62557 0 4
+# Eq  Energy StageAccept Stage
+42800 -6.52369 0 4
+# Eq  Energy StageAccept Stage
+42900 -6.51984 0 4
+# Eq  Energy StageAccept Stage
+43000 -6.6517 0 4
+# Eq  Energy StageAccept Stage
+43100 -6.65654 0 4
+# Eq  Energy StageAccept Stage
+43200 -6.60558 0 4
+# Eq  Energy StageAccept Stage
+43300 -6.704 0 4
+# Eq  Energy StageAccept Stage
+43400 -6.62419 0 4
+# Eq  Energy StageAccept Stage
+43500 -6.59903 0 4
+# Eq  Energy StageAccept Stage
+43600 -6.69373 0 4
+# Eq  Energy StageAccept Stage
+43700 -6.7008 0 4
+# Eq  Energy StageAccept Stage
+43800 -6.73616 0 4
+# Eq  Energy StageAccept Stage
+43900 -6.71187 0 4
+# Eq  Energy StageAccept Stage
+44000 -6.65927 0 4
+# Eq  Energy StageAccept Stage
+44100 -6.67167 0 4
+# Eq  Energy StageAccept Stage
+44200 -6.61141 0 4
+# Eq  Energy StageAccept Stage
+44300 -6.67543 0 4
+# Eq  Energy StageAccept Stage
+44400 -6.7053 0 4
+# Eq  Energy StageAccept Stage
+44500 -6.70348 0 4
+# Eq  Energy StageAccept Stage
+44600 -6.62583 0 4
+# Eq  Energy StageAccept Stage
+44700 -6.70901 0 4
+# Eq  Energy StageAccept Stage
+44800 -6.70652 0 4
+# Eq  Energy StageAccept Stage
+44900 -6.72296 0 4
+# Eq  Energy StageAccept Stage
+45000 -6.73698 0 4
+# Eq  Energy StageAccept Stage
+45100 -6.7088 0 4
+# Eq  Energy StageAccept Stage
+45200 -6.65657 0 4
+# Eq  Energy StageAccept Stage
+45300 -6.71818 0 4
+# Eq  Energy StageAccept Stage
+45400 -6.69779 0 4
+# Eq  Energy StageAccept Stage
+45500 -6.69185 0 4
+# Eq  Energy StageAccept Stage
+45600 -6.63701 0 4
+# Eq  Energy StageAccept Stage
+45700 -6.69683 0 4
+# Eq  Energy StageAccept Stage
+45800 -6.65248 0 4
+# Eq  Energy StageAccept Stage
+45900 -6.71438 0 4
+# Eq  Energy StageAccept Stage
+46000 -6.58304 0 4
+# Eq  Energy StageAccept Stage
+46100 -6.77919 0 4
+# Eq  Energy StageAccept Stage
+46200 -6.75467 0 4
+# Eq  Energy StageAccept Stage
+46300 -6.68251 0 4
+# Eq  Energy StageAccept Stage
+46400 -6.67228 0 4
+# Eq  Energy StageAccept Stage
+46500 -6.71387 0 4
+# Eq  Energy StageAccept Stage
+46600 -6.65993 0 4
+# Eq  Energy StageAccept Stage
+46700 -6.70704 0 4
+# Eq  Energy StageAccept Stage
+46800 -6.74252 0 4
+# Eq  Energy StageAccept Stage
+46900 -6.74838 0 4
+# Eq  Energy StageAccept Stage
+47000 -6.74741 0 4
+# Eq  Energy StageAccept Stage
+47100 -6.735 0 4
+# Eq  Energy StageAccept Stage
+47200 -6.71479 0 4
+# Eq  Energy StageAccept Stage
+47300 -6.72874 0 4
+# Eq  Energy StageAccept Stage
+47400 -6.70945 0 4
+# Eq  Energy StageAccept Stage
+47500 -6.66879 0 4
+# Eq  Energy StageAccept Stage
+47600 -6.6495 0 4
+# Eq  Energy StageAccept Stage
+47700 -6.68027 0 4
+# Eq  Energy StageAccept Stage
+47800 -6.68738 0 4
+# Eq  Energy StageAccept Stage
+47900 -6.73088 0 4
+# Eq  Energy StageAccept Stage
+48000 -6.70682 0 4
+# Eq  Energy StageAccept Stage
+48100 -6.64424 0 4
+# Eq  Energy StageAccept Stage
+48200 -6.64076 0 4
+# Eq  Energy StageAccept Stage
+48300 -6.75401 0 4
+# Eq  Energy StageAccept Stage
+48400 -6.77442 0 4
+# Eq  Energy StageAccept Stage
+48500 -6.75033 0 4
+# Eq  Energy StageAccept Stage
+48600 -6.79412 0 4
+# Eq  Energy StageAccept Stage
+48700 -6.78295 0 4
+# Eq  Energy StageAccept Stage
+48800 -6.76305 0 4
+# Eq  Energy StageAccept Stage
+48900 -6.70559 0 4
+# Eq  Energy StageAccept Stage
+49000 -6.85939 0 4
+# Eq  Energy StageAccept Stage
+49100 -6.68099 0 4
+# Eq  Energy StageAccept Stage
+49200 -6.69365 0 4
+# Eq  Energy StageAccept Stage
+49300 -6.75177 0 4
+# Eq  Energy StageAccept Stage
+49400 -6.70426 0 4
+# Eq  Energy StageAccept Stage
+49500 -6.73894 0 4
+# Eq  Energy StageAccept Stage
+49600 -6.8065 0 4
+# Eq  Energy StageAccept Stage
+49700 -6.69578 0 4
+# Eq  Energy StageAccept Stage
+49800 -6.7078 0 4
+# Eq  Energy StageAccept Stage
+49900 -6.71044 0 4
+# Eq  Energy StageAccept Stage
+50000 -6.76523 0 4
+# Eq  Energy StageAccept Stage
+50100 -6.72747 0 4
+# Eq  Energy StageAccept Stage
+50200 -6.7061 0 4
+# Eq  Energy StageAccept Stage
+50300 -6.73108 0 4
+# Eq  Energy StageAccept Stage
+50400 -6.69352 0 4
+# Eq  Energy StageAccept Stage
+50500 -6.73514 0 4
+# Eq  Energy StageAccept Stage
+50600 -6.69682 0 4
+# Eq  Energy StageAccept Stage
+50700 -6.76677 0 4
+# Eq  Energy StageAccept Stage
+50800 -6.66107 0 4
+# Eq  Energy StageAccept Stage
+50900 -6.69271 0 4
+# Eq  Energy StageAccept Stage
+51000 -6.70448 0 4
+# Eq  Energy StageAccept Stage
+51100 -6.7132 0 4
+# Eq  Energy StageAccept Stage
+51200 -6.77 0 4
+# Eq  Energy StageAccept Stage
+51300 -6.73882 0 4
+# Eq  Energy StageAccept Stage
+51400 -6.77266 0 4
+# Eq  Energy StageAccept Stage
+51500 -6.74079 0 4
+# Eq  Energy StageAccept Stage
+51600 -6.81548 0 4
+# Eq  Energy StageAccept Stage
+51700 -6.79678 0 4
+# Eq  Energy StageAccept Stage
+51800 -6.75216 0 4
+# Eq  Energy StageAccept Stage
+51900 -6.80725 0 4
+# Eq  Energy StageAccept Stage
+52000 -6.71298 0 4
+# Eq  Energy StageAccept Stage
+52100 -6.77722 0 4
+# Eq  Energy StageAccept Stage
+52200 -6.73468 0 4
+# Eq  Energy StageAccept Stage
+52300 -6.72163 0 4
+# Eq  Energy StageAccept Stage
+52400 -6.82163 0 4
+# Eq  Energy StageAccept Stage
+52500 -6.7307 0 4
+# Eq  Energy StageAccept Stage
+52600 -6.78175 0 4
+# Eq  Energy StageAccept Stage
+52700 -6.75817 0 4
+# Eq  Energy StageAccept Stage
+52800 -6.55013 0 4
+# Eq  Energy StageAccept Stage
+52900 -6.77146 0 4
+# Eq  Energy StageAccept Stage
+53000 -6.77805 0 4
+# Eq  Energy StageAccept Stage
+53100 -6.7421 0 4
+# Eq  Energy StageAccept Stage
+53200 -6.71881 0 4
+# Eq  Energy StageAccept Stage
+53300 -6.71871 0 4
+# Eq  Energy StageAccept Stage
+53400 -6.78087 0 4
+# Eq  Energy StageAccept Stage
+53500 -6.71337 0 4
+# Eq  Energy StageAccept Stage
+53600 -6.84581 0 4
+# Eq  Energy StageAccept Stage
+53700 -6.66856 0 4
+# Eq  Energy StageAccept Stage
+53800 -6.69827 0 4
+# Eq  Energy StageAccept Stage
+53900 -6.73802 0 4
+# Eq  Energy StageAccept Stage
+54000 -6.73062 0 4
+# Eq  Energy StageAccept Stage
+54100 -6.70328 0 4
+# Eq  Energy StageAccept Stage
+54200 -6.74036 0 4
+# Eq  Energy StageAccept Stage
+54300 -6.66886 0 4
+# Eq  Energy StageAccept Stage
+54400 -6.7296 0 4
+# Eq  Energy StageAccept Stage
+54500 -6.80939 0 4
+# Eq  Energy StageAccept Stage
+54600 -6.76864 0 4
+# Eq  Energy StageAccept Stage
+54700 -6.81215 0 4
+# Eq  Energy StageAccept Stage
+54800 -6.78987 0 4
+# Eq  Energy StageAccept Stage
+54900 -6.74526 0 4
+# Eq  Energy StageAccept Stage
+55000 -6.75644 0 4
+# Eq  Energy StageAccept Stage
+55100 -6.70724 0 4
+# Eq  Energy StageAccept Stage
+55200 -6.75888 0 4
+# Eq  Energy StageAccept Stage
+55300 -6.72369 0 4
+# Eq  Energy StageAccept Stage
+55400 -6.68893 0 4
+# Eq  Energy StageAccept Stage
+55500 -6.704 0 4
+# Eq  Energy StageAccept Stage
+55600 -6.68138 0 4
+# Eq  Energy StageAccept Stage
+55700 -6.72013 0 4
+# Eq  Energy StageAccept Stage
+55800 -6.7656 0 4
+# Eq  Energy StageAccept Stage
+55900 -6.71851 0 4
+# Eq  Energy StageAccept Stage
+56000 -6.68852 0 4
+# Eq  Energy StageAccept Stage
+56100 -6.76874 0 4
+# Eq  Energy StageAccept Stage
+56200 -6.75825 0 4
+# Eq  Energy StageAccept Stage
+56300 -6.81088 0 4
+# Eq  Energy StageAccept Stage
+56400 -6.79173 0 4
+# Eq  Energy StageAccept Stage
+56500 -6.7168 0 4
+# Eq  Energy StageAccept Stage
+56600 -6.71013 0 4
+# Eq  Energy StageAccept Stage
+56700 -6.76296 0 4
+# Eq  Energy StageAccept Stage
+56800 -6.72111 0 4
+# Eq  Energy StageAccept Stage
+56900 -6.60566 0 4
+# Eq  Energy StageAccept Stage
+57000 -6.72465 0 4
+# Eq  Energy StageAccept Stage
+57100 -6.6521 0 4
+# Eq  Energy StageAccept Stage
+57200 -6.71472 0 4
+# Eq  Energy StageAccept Stage
+57300 -6.76631 0 4
+# Eq  Energy StageAccept Stage
+57400 -6.70644 0 4
+# Eq  Energy StageAccept Stage
+57500 -6.73874 0 4
+# Eq  Energy StageAccept Stage
+57600 -6.75791 0 4
+# Eq  Energy StageAccept Stage
+57700 -6.67369 0 4
+# Eq  Energy StageAccept Stage
+57800 -6.75479 0 4
+# Eq  Energy StageAccept Stage
+57900 -6.76913 0 4
+# Eq  Energy StageAccept Stage
+58000 -6.702 0 4
+# Eq  Energy StageAccept Stage
+58100 -6.65494 0 4
+# Eq  Energy StageAccept Stage
+58200 -6.61892 0 4
+# Eq  Energy StageAccept Stage
+58300 -6.68112 0 4
+# Eq  Energy StageAccept Stage
+58400 -6.597 0 4
+# Eq  Energy StageAccept Stage
+58500 -6.80838 0 4
+# Eq  Energy StageAccept Stage
+58600 -6.67943 0 4
+# Eq  Energy StageAccept Stage
+58700 -6.74285 0 4
+# Eq  Energy StageAccept Stage
+58800 -6.67353 0 4
+# Eq  Energy StageAccept Stage
+58900 -6.63136 0 4
+# Eq  Energy StageAccept Stage
+59000 -6.72232 0 4
+# Eq  Energy StageAccept Stage
+59100 -6.7581 0 4
+# Eq  Energy StageAccept Stage
+59200 -6.65249 0 4
+# Eq  Energy StageAccept Stage
+59300 -6.70223 0 4
+# Eq  Energy StageAccept Stage
+59400 -6.6253 0 4
+# Eq  Energy StageAccept Stage
+59500 -6.6173 0 4
+# Eq  Energy StageAccept Stage
+59600 -6.73916 0 4
+# Eq  Energy StageAccept Stage
+59700 -6.73322 0 4
+# Eq  Energy StageAccept Stage
+59800 -6.79059 0 4
+# Eq  Energy StageAccept Stage
+59900 -6.69825 0 4
+# Eq  Energy StageAccept Stage
+60000 -6.77581 0 4
+# Eq  Energy StageAccept Stage
+60100 -6.66609 0 4
+# Eq  Energy StageAccept Stage
+60200 -6.66946 0 4
+# Eq  Energy StageAccept Stage
+60300 -6.63546 0 4
+# Eq  Energy StageAccept Stage
+60400 -6.72394 0 4
+# Eq  Energy StageAccept Stage
+60500 -6.7571 0 4
+# Eq  Energy StageAccept Stage
+60600 -6.67394 0 4
+# Eq  Energy StageAccept Stage
+60700 -6.67242 0 4
+# Eq  Energy StageAccept Stage
+60800 -6.72315 0 4
+# Eq  Energy StageAccept Stage
+60900 -6.70493 0 4
+# Eq  Energy StageAccept Stage
+61000 -6.71051 0 4
+# Eq  Energy StageAccept Stage
+61100 -6.65227 0 4
+# Eq  Energy StageAccept Stage
+61200 -6.6569 0 4
+# Eq  Energy StageAccept Stage
+61300 -6.67937 0 4
+# Eq  Energy StageAccept Stage
+61400 -6.72651 0 4
+# Eq  Energy StageAccept Stage
+61500 -6.72727 0 4
+# Eq  Energy StageAccept Stage
+61600 -6.71506 0 4
+# Eq  Energy StageAccept Stage
+61700 -6.7113 0 4
+# Eq  Energy StageAccept Stage
+61800 -6.73229 0 4
+# Eq  Energy StageAccept Stage
+61900 -6.69004 0 4
+# Eq  Energy StageAccept Stage
+62000 -6.74418 0 4
+# Eq  Energy StageAccept Stage
+62100 -6.72086 0 4
+# Eq  Energy StageAccept Stage
+62200 -6.74192 0 4
+# Eq  Energy StageAccept Stage
+62300 -6.7885 0 4
+# Eq  Energy StageAccept Stage
+62400 -6.66359 0 4
+# Eq  Energy StageAccept Stage
+62500 -6.72359 0 4
+# Eq  Energy StageAccept Stage
+62600 -6.60486 0 4
+# Eq  Energy StageAccept Stage
+62700 -6.67437 0 4
+# Eq  Energy StageAccept Stage
+62800 -6.65762 0 4
+# Eq  Energy StageAccept Stage
+62900 -6.61164 0 4
+# Eq  Energy StageAccept Stage
+63000 -6.78946 0 4
+# Eq  Energy StageAccept Stage
+63100 -6.74764 0 4
+# Eq  Energy StageAccept Stage
+63200 -6.67575 0 4
+# Eq  Energy StageAccept Stage
+63300 -6.75532 0 4
+# Eq  Energy StageAccept Stage
+63400 -6.72577 0 4
+# Eq  Energy StageAccept Stage
+63500 -6.76012 0 4
+# Eq  Energy StageAccept Stage
+63600 -6.72959 0 4
+# Eq  Energy StageAccept Stage
+63700 -6.75951 0 4
+# Eq  Energy StageAccept Stage
+63800 -6.71296 0 4
+# Eq  Energy StageAccept Stage
+63900 -6.7042 0 4
+# Eq  Energy StageAccept Stage
+64000 -6.73563 0 4
+# Eq  Energy StageAccept Stage
+64100 -6.70437 0 4
+# Eq  Energy StageAccept Stage
+64200 -6.71715 0 4
+# Eq  Energy StageAccept Stage
+64300 -6.71143 0 4
+# Eq  Energy StageAccept Stage
+64400 -6.70525 0 4
+# Eq  Energy StageAccept Stage
+64500 -6.69237 0 4
+# Eq  Energy StageAccept Stage
+64600 -6.612 0 4
+# Eq  Energy StageAccept Stage
+64700 -6.56847 0 4
+# Eq  Energy StageAccept Stage
+64800 -6.63705 0 4
+# Eq  Energy StageAccept Stage
+64900 -6.69866 0 4
+# Eq  Energy StageAccept Stage
+65000 -6.71423 0 4
+# Eq  Energy StageAccept Stage
+65100 -6.60866 0 4
+# Eq  Energy StageAccept Stage
+65200 -6.73739 0 4
+# Eq  Energy StageAccept Stage
+65300 -6.66525 0 4
+# Eq  Energy StageAccept Stage
+65400 -6.77143 0 4
+# Eq  Energy StageAccept Stage
+65500 -6.69809 0 4
+# Eq  Energy StageAccept Stage
+65600 -6.61082 0 4
+# Eq  Energy StageAccept Stage
+65700 -6.67216 0 4
+# Eq  Energy StageAccept Stage
+65800 -6.63286 0 4
+# Eq  Energy StageAccept Stage
+65900 -6.7003 0 4
+# Eq  Energy StageAccept Stage
+66000 -6.6753 0 4
+# Eq  Energy StageAccept Stage
+66100 -6.6258 0 4
+# Eq  Energy StageAccept Stage
+66200 -6.60594 0 4
+# Eq  Energy StageAccept Stage
+66300 -6.65362 0 4
+# Eq  Energy StageAccept Stage
+66400 -6.6284 0 4
+# Eq  Energy StageAccept Stage
+66500 -6.65599 0 4
+# Eq  Energy StageAccept Stage
+66600 -6.66913 0 4
+# Eq  Energy StageAccept Stage
+66700 -6.67017 0 4
+# Eq  Energy StageAccept Stage
+66800 -6.629 0 4
+# Eq  Energy StageAccept Stage
+66900 -6.67892 0 4
+# Eq  Energy StageAccept Stage
+67000 -6.65184 0 4
+# Eq  Energy StageAccept Stage
+67100 -6.62547 0 4
+# Eq  Energy StageAccept Stage
+67200 -6.64654 0 4
+# Eq  Energy StageAccept Stage
+67300 -6.677 0 4
+# Eq  Energy StageAccept Stage
+67400 -6.59922 0 4
+# Eq  Energy StageAccept Stage
+67500 -6.56848 0 4
+# Eq  Energy StageAccept Stage
+67600 -6.61643 0 4
+# Eq  Energy StageAccept Stage
+67700 -6.62855 0 4
+# Eq  Energy StageAccept Stage
+67800 -6.66374 0 4
+# Eq  Energy StageAccept Stage
+67900 -6.64489 0 4
+# Eq  Energy StageAccept Stage
+68000 -6.68444 0 4
+# Eq  Energy StageAccept Stage
+68100 -6.66889 0 4
+# Eq  Energy StageAccept Stage
+68200 -6.68121 0 4
+# Eq  Energy StageAccept Stage
+68300 -6.67762 0 4
+# Eq  Energy StageAccept Stage
+68400 -6.69514 0 4
+# Eq  Energy StageAccept Stage
+68500 -6.5872 0 4
+# Eq  Energy StageAccept Stage
+68600 -6.62448 0 4
+# Eq  Energy StageAccept Stage
+68700 -6.60244 0 4
+# Eq  Energy StageAccept Stage
+68800 -6.61347 0 4
+# Eq  Energy StageAccept Stage
+68900 -6.71606 0 4
+# Eq  Energy StageAccept Stage
+69000 -6.66681 0 4
+# Eq  Energy StageAccept Stage
+69100 -6.79053 0 4
+# Eq  Energy StageAccept Stage
+69200 -6.69011 0 4
+# Eq  Energy StageAccept Stage
+69300 -6.65445 0 4
+# Eq  Energy StageAccept Stage
+69400 -6.64954 0 4
+# Eq  Energy StageAccept Stage
+69500 -6.65332 0 4
+# Eq  Energy StageAccept Stage
+69600 -6.699 0 4
+# Eq  Energy StageAccept Stage
+69700 -6.60125 0 4
+# Eq  Energy StageAccept Stage
+69800 -6.72175 0 4
+# Eq  Energy StageAccept Stage
+69900 -6.62331 0 4
+# Eq  Energy StageAccept Stage
+70000 -6.66678 0 4
+# Eq  Energy StageAccept Stage
+70100 -6.66997 0 4
+# Eq  Energy StageAccept Stage
+70200 -6.58099 0 4
+# Eq  Energy StageAccept Stage
+70300 -6.63394 0 4
+# Eq  Energy StageAccept Stage
+70400 -6.5824 0 4
+# Eq  Energy StageAccept Stage
+70500 -6.62955 0 4
+# Eq  Energy StageAccept Stage
+70600 -6.66852 0 4
+# Eq  Energy StageAccept Stage
+70700 -6.64622 0 4
+# Eq  Energy StageAccept Stage
+70800 -6.66327 0 4
+# Eq  Energy StageAccept Stage
+70900 -6.64617 0 4
+# Eq  Energy StageAccept Stage
+71000 -6.71819 0 4
+# Eq  Energy StageAccept Stage
+71100 -6.67942 0 4
+# Eq  Energy StageAccept Stage
+71200 -6.70472 0 4
+# Eq  Energy StageAccept Stage
+71300 -6.64892 0 4
+# Eq  Energy StageAccept Stage
+71400 -6.70557 0 4
+# Eq  Energy StageAccept Stage
+71500 -6.70649 0 4
+# Eq  Energy StageAccept Stage
+71600 -6.75636 0 4
+# Eq  Energy StageAccept Stage
+71700 -6.63511 0 4
+# Eq  Energy StageAccept Stage
+71800 -6.6767 0 4
+# Eq  Energy StageAccept Stage
+71900 -6.62826 0 4
+# Eq  Energy StageAccept Stage
+72000 -6.58079 0 4
+# Eq  Energy StageAccept Stage
+72100 -6.5976 0 4
+# Eq  Energy StageAccept Stage
+72200 -6.66127 0 4
+# Eq  Energy StageAccept Stage
+72300 -6.67655 0 4
+# Eq  Energy StageAccept Stage
+72400 -6.59355 0 4
+# Eq  Energy StageAccept Stage
+72500 -6.59954 0 4
+# Eq  Energy StageAccept Stage
+72600 -6.64552 0 4
+# Eq  Energy StageAccept Stage
+72700 -6.7239 0 4
+# Eq  Energy StageAccept Stage
+72800 -6.66688 0 4
+# Eq  Energy StageAccept Stage
+72900 -6.62113 0 4
+# Eq  Energy StageAccept Stage
+73000 -6.6348 0 4
+# Eq  Energy StageAccept Stage
+73100 -6.5852 0 4
+# Eq  Energy StageAccept Stage
+73200 -6.57924 0 4
+# Eq  Energy StageAccept Stage
+73300 -6.56906 0 4
+# Eq  Energy StageAccept Stage
+73400 -6.73345 0 4
+# Eq  Energy StageAccept Stage
+73500 -6.744 0 4
+# Eq  Energy StageAccept Stage
+73600 -6.66217 0 4
+# Eq  Energy StageAccept Stage
+73700 -6.71201 0 4
+# Eq  Energy StageAccept Stage
+73800 -6.62217 0 4
+# Eq  Energy StageAccept Stage
+73900 -6.63255 0 4
+# Eq  Energy StageAccept Stage
+74000 -6.65517 0 4
+# Eq  Energy StageAccept Stage
+74100 -6.68328 0 4
+# Eq  Energy StageAccept Stage
+74200 -6.7358 0 4
+# Eq  Energy StageAccept Stage
+74300 -6.62934 0 4
+# Eq  Energy StageAccept Stage
+74400 -6.69873 0 4
+# Eq  Energy StageAccept Stage
+74500 -6.60475 0 4
+# Eq  Energy StageAccept Stage
+74600 -6.57873 0 4
+# Eq  Energy StageAccept Stage
+74700 -6.69102 0 4
+# Eq  Energy StageAccept Stage
+74800 -6.59366 0 4
+# Eq  Energy StageAccept Stage
+74900 -6.61853 0 4
+# Eq  Energy StageAccept Stage
+75000 -6.66489 0 4
+# Eq  Energy StageAccept Stage
+75100 -6.67523 0 4
+# Eq  Energy StageAccept Stage
+75200 -6.60672 0 4
+# Eq  Energy StageAccept Stage
+75300 -6.64616 0 4
+# Eq  Energy StageAccept Stage
+75400 -6.79321 0 4
+# Eq  Energy StageAccept Stage
+75500 -6.74306 0 4
+# Eq  Energy StageAccept Stage
+75600 -6.73914 0 4
+# Eq  Energy StageAccept Stage
+75700 -6.73459 0 4
+# Eq  Energy StageAccept Stage
+75800 -6.61132 0 4
+# Eq  Energy StageAccept Stage
+75900 -6.6347 0 4
+# Eq  Energy StageAccept Stage
+76000 -6.65443 0 4
+# Eq  Energy StageAccept Stage
+76100 -6.65533 0 4
+# Eq  Energy StageAccept Stage
+76200 -6.71326 0 4
+# Eq  Energy StageAccept Stage
+76300 -6.71506 0 4
+# Eq  Energy StageAccept Stage
+76400 -6.72757 0 4
+# Eq  Energy StageAccept Stage
+76500 -6.63345 0 4
+# Eq  Energy StageAccept Stage
+76600 -6.63716 0 4
+# Eq  Energy StageAccept Stage
+76700 -6.69107 0 4
+# Eq  Energy StageAccept Stage
+76800 -6.56033 0 4
+# Eq  Energy StageAccept Stage
+76900 -6.66013 0 4
+# Eq  Energy StageAccept Stage
+77000 -6.69735 0 4
+# Eq  Energy StageAccept Stage
+77100 -6.75316 0 4
+# Eq  Energy StageAccept Stage
+77200 -6.78497 0 4
+# Eq  Energy StageAccept Stage
+77300 -6.61306 0 4
+# Eq  Energy StageAccept Stage
+77400 -6.66788 0 4
+# Eq  Energy StageAccept Stage
+77500 -6.64257 0 4
+# Eq  Energy StageAccept Stage
+77600 -6.81705 0 4
+# Eq  Energy StageAccept Stage
+77700 -6.65849 0 4
+# Eq  Energy StageAccept Stage
+77800 -6.59742 0 4
+# Eq  Energy StageAccept Stage
+77900 -6.7131 0 4
+# Eq  Energy StageAccept Stage
+78000 -6.70779 0 4
+# Eq  Energy StageAccept Stage
+78100 -6.57621 0 4
+# Eq  Energy StageAccept Stage
+78200 -6.69101 0 4
+# Eq  Energy StageAccept Stage
+78300 -6.73347 0 4
+# Eq  Energy StageAccept Stage
+78400 -6.74432 0 4
+# Eq  Energy StageAccept Stage
+78500 -6.66722 0 4
+# Eq  Energy StageAccept Stage
+78600 -6.70463 0 4
+# Eq  Energy StageAccept Stage
+78700 -6.66119 0 4
+# Eq  Energy StageAccept Stage
+78800 -6.7049 0 4
+# Eq  Energy StageAccept Stage
+78900 -6.65278 0 4
+# Eq  Energy StageAccept Stage
+79000 -6.66991 0 4
+# Eq  Energy StageAccept Stage
+79100 -6.70309 0 4
+# Eq  Energy StageAccept Stage
+79200 -6.74421 0 4
+# Eq  Energy StageAccept Stage
+79300 -6.68513 0 4
+# Eq  Energy StageAccept Stage
+79400 -6.72767 0 4
+# Eq  Energy StageAccept Stage
+79500 -6.6598 0 4
+# Eq  Energy StageAccept Stage
+79600 -6.67961 0 4
+# Eq  Energy StageAccept Stage
+79700 -6.69645 0 4
+# Eq  Energy StageAccept Stage
+79800 -6.72997 0 4
+# Eq  Energy StageAccept Stage
+79900 -6.75228 0 4
+# Eq  Energy StageAccept Stage
+80000 -6.68205 0 4
+# Eq  Energy StageAccept Stage
+80100 -6.61812 0 4
+# Eq  Energy StageAccept Stage
+80200 -6.73953 0 4
+# Eq  Energy StageAccept Stage
+80300 -6.66516 0 4
+# Eq  Energy StageAccept Stage
+80400 -6.74728 0 4
+# Eq  Energy StageAccept Stage
+80500 -6.81417 0 4
+# Eq  Energy StageAccept Stage
+80600 -6.6824 0 4
+# Eq  Energy StageAccept Stage
+80700 -6.6602 0 4
+# Eq  Energy StageAccept Stage
+80800 -6.73992 0 4
+# Eq  Energy StageAccept Stage
+80900 -6.71956 0 4
+# Eq  Energy StageAccept Stage
+81000 -6.75283 0 4
+# Eq  Energy StageAccept Stage
+81100 -6.67037 0 4
+# Eq  Energy StageAccept Stage
+81200 -6.74081 0 4
+# Eq  Energy StageAccept Stage
+81300 -6.67574 0 4
+# Eq  Energy StageAccept Stage
+81400 -6.6656 0 4
+# Eq  Energy StageAccept Stage
+81500 -6.72124 0 4
+# Eq  Energy StageAccept Stage
+81600 -6.69589 0 4
+# Eq  Energy StageAccept Stage
+81700 -6.73927 0 4
+# Eq  Energy StageAccept Stage
+81800 -6.59771 0 4
+# Eq  Energy StageAccept Stage
+81900 -6.73034 0 4
+# Eq  Energy StageAccept Stage
+82000 -6.63016 0 4
+# Eq  Energy StageAccept Stage
+82100 -6.67897 0 4
+# Eq  Energy StageAccept Stage
+82200 -6.72415 0 4
+# Eq  Energy StageAccept Stage
+82300 -6.6561 0 4
+# Eq  Energy StageAccept Stage
+82400 -6.69957 0 4
+# Eq  Energy StageAccept Stage
+82500 -6.65247 0 4
+# Eq  Energy StageAccept Stage
+82600 -6.72999 0 4
+# Eq  Energy StageAccept Stage
+82700 -6.70392 0 4
+# Eq  Energy StageAccept Stage
+82800 -6.75839 0 4
+# Eq  Energy StageAccept Stage
+82900 -6.73113 0 4
+# Eq  Energy StageAccept Stage
+83000 -6.71443 0 4
+# Eq  Energy StageAccept Stage
+83100 -6.76766 0 4
+# Eq  Energy StageAccept Stage
+83200 -6.72607 0 4
+# Eq  Energy StageAccept Stage
+83300 -6.67198 0 4
+# Eq  Energy StageAccept Stage
+83400 -6.69995 0 4
+# Eq  Energy StageAccept Stage
+83500 -6.73409 0 4
+# Eq  Energy StageAccept Stage
+83600 -6.74275 0 4
+# Eq  Energy StageAccept Stage
+83700 -6.73162 0 4
+# Eq  Energy StageAccept Stage
+83800 -6.72928 0 4
+# Eq  Energy StageAccept Stage
+83900 -6.58848 0 4
+# Eq  Energy StageAccept Stage
+84000 -6.67442 0 4
+# Eq  Energy StageAccept Stage
+84100 -6.65249 0 4
+# Eq  Energy StageAccept Stage
+84200 -6.61614 0 4
+# Eq  Energy StageAccept Stage
+84300 -6.64074 0 4
+# Eq  Energy StageAccept Stage
+84400 -6.72062 0 4
+# Eq  Energy StageAccept Stage
+84500 -6.72296 0 4
+# Eq  Energy StageAccept Stage
+84600 -6.80044 0 4
+# Eq  Energy StageAccept Stage
+84700 -6.6671 0 4
+# Eq  Energy StageAccept Stage
+84800 -6.82078 0 4
+# Eq  Energy StageAccept Stage
+84900 -6.65824 0 4
+# Eq  Energy StageAccept Stage
+85000 -6.73822 0 4
+# Eq  Energy StageAccept Stage
+85100 -6.65474 0 4
+# Eq  Energy StageAccept Stage
+85200 -6.66921 0 4
+# Eq  Energy StageAccept Stage
+85300 -6.51712 0 4
+# Eq  Energy StageAccept Stage
+85400 -6.70298 0 4
+# Eq  Energy StageAccept Stage
+85500 -6.71776 0 4
+# Eq  Energy StageAccept Stage
+85600 -6.71603 0 4
+# Eq  Energy StageAccept Stage
+85700 -6.63638 0 4
+# Eq  Energy StageAccept Stage
+85800 -6.6898 0 4
+# Eq  Energy StageAccept Stage
+85900 -6.70071 0 4
+# Eq  Energy StageAccept Stage
+86000 -6.60744 0 4
+# Eq  Energy StageAccept Stage
+86100 -6.64359 0 4
+# Eq  Energy StageAccept Stage
+86200 -6.69469 0 4
+# Eq  Energy StageAccept Stage
+86300 -6.64265 0 4
+# Eq  Energy StageAccept Stage
+86400 -6.67804 0 4
+# Eq  Energy StageAccept Stage
+86500 -6.59331 0 4
+# Eq  Energy StageAccept Stage
+86600 -6.67075 0 4
+# Eq  Energy StageAccept Stage
+86700 -6.68592 0 4
+# Eq  Energy StageAccept Stage
+86800 -6.67556 0 4
+# Eq  Energy StageAccept Stage
+86900 -6.67319 0 4
+# Eq  Energy StageAccept Stage
+87000 -6.64558 0 4
+# Eq  Energy StageAccept Stage
+87100 -6.65046 0 4
+# Eq  Energy StageAccept Stage
+87200 -6.61839 0 4
+# Eq  Energy StageAccept Stage
+87300 -6.63624 0 4
+# Eq  Energy StageAccept Stage
+87400 -6.6149 0 4
+# Eq  Energy StageAccept Stage
+87500 -6.67546 0 4
+# Eq  Energy StageAccept Stage
+87600 -6.61512 0 4
+# Eq  Energy StageAccept Stage
+87700 -6.55923 0 4
+# Eq  Energy StageAccept Stage
+87800 -6.62532 0 4
+# Eq  Energy StageAccept Stage
+87900 -6.58488 0 4
+# Eq  Energy StageAccept Stage
+88000 -6.57062 0 4
+# Eq  Energy StageAccept Stage
+88100 -6.60797 0 4
+# Eq  Energy StageAccept Stage
+88200 -6.73709 0 4
+# Eq  Energy StageAccept Stage
+88300 -6.68985 0 4
+# Eq  Energy StageAccept Stage
+88400 -6.76079 0 4
+# Eq  Energy StageAccept Stage
+88500 -6.6575 0 4
+# Eq  Energy StageAccept Stage
+88600 -6.68627 0 4
+# Eq  Energy StageAccept Stage
+88700 -6.71533 0 4
+# Eq  Energy StageAccept Stage
+88800 -6.67132 0 4
+# Eq  Energy StageAccept Stage
+88900 -6.54522 0 4
+# Eq  Energy StageAccept Stage
+89000 -6.629 0 4
+# Eq  Energy StageAccept Stage
+89100 -6.6346 0 4
+# Eq  Energy StageAccept Stage
+89200 -6.65826 0 4
+# Eq  Energy StageAccept Stage
+89300 -6.66455 0 4
+# Eq  Energy StageAccept Stage
+89400 -6.69078 0 4
+# Eq  Energy StageAccept Stage
+89500 -6.73208 0 4
+# Eq  Energy StageAccept Stage
+89600 -6.6848 0 4
+# Eq  Energy StageAccept Stage
+89700 -6.73758 0 4
+# Eq  Energy StageAccept Stage
+89800 -6.73155 0 4
+# Eq  Energy StageAccept Stage
+89900 -6.61124 0 4
+# Eq  Energy StageAccept Stage
+90000 -6.67428 0 4
+# Eq  Energy StageAccept Stage
+90100 -6.68102 0 4
+# Eq  Energy StageAccept Stage
+90200 -6.69212 0 4
+# Eq  Energy StageAccept Stage
+90300 -6.69034 0 4
+# Eq  Energy StageAccept Stage
+90400 -6.68873 0 4
+# Eq  Energy StageAccept Stage
+90500 -6.61306 0 4
+# Eq  Energy StageAccept Stage
+90600 -6.76598 0 4
+# Eq  Energy StageAccept Stage
+90700 -6.62443 0 4
+# Eq  Energy StageAccept Stage
+90800 -6.64472 0 4
+# Eq  Energy StageAccept Stage
+90900 -6.62574 0 4
+# Eq  Energy StageAccept Stage
+91000 -6.62957 0 4
+# Eq  Energy StageAccept Stage
+91100 -6.62141 0 4
+# Eq  Energy StageAccept Stage
+91200 -6.757 0 4
+# Eq  Energy StageAccept Stage
+91300 -6.60256 0 4
+# Eq  Energy StageAccept Stage
+91400 -6.72035 0 4
+# Eq  Energy StageAccept Stage
+91500 -6.64842 0 4
+# Eq  Energy StageAccept Stage
+91600 -6.62288 0 4
+# Eq  Energy StageAccept Stage
+91700 -6.60097 0 4
+# Eq  Energy StageAccept Stage
+91800 -6.66522 0 4
+# Eq  Energy StageAccept Stage
+91900 -6.6898 0 4
+# Eq  Energy StageAccept Stage
+92000 -6.64921 0 4
+# Eq  Energy StageAccept Stage
+92100 -6.57621 0 4
+# Eq  Energy StageAccept Stage
+92200 -6.75579 0 4
+# Eq  Energy StageAccept Stage
+92300 -6.68041 0 4
+# Eq  Energy StageAccept Stage
+92400 -6.60463 0 4
+# Eq  Energy StageAccept Stage
+92500 -6.64571 0 4
+# Eq  Energy StageAccept Stage
+92600 -6.6518 0 4
+# Eq  Energy StageAccept Stage
+92700 -6.66088 0 4
+# Eq  Energy StageAccept Stage
+92800 -6.69277 0 4
+# Eq  Energy StageAccept Stage
+92900 -6.62427 0 4
+# Eq  Energy StageAccept Stage
+93000 -6.66196 0 4
+# Eq  Energy StageAccept Stage
+93100 -6.75414 0 4
+# Eq  Energy StageAccept Stage
+93200 -6.76929 0 4
+# Eq  Energy StageAccept Stage
+93300 -6.74855 0 4
+# Eq  Energy StageAccept Stage
+93400 -6.76009 0 4
+# Eq  Energy StageAccept Stage
+93500 -6.64442 0 4
+# Eq  Energy StageAccept Stage
+93600 -6.74178 0 4
+# Eq  Energy StageAccept Stage
+93700 -6.69162 0 4
+# Eq  Energy StageAccept Stage
+93800 -6.72596 0 4
+# Eq  Energy StageAccept Stage
+93900 -6.61238 0 4
+# Eq  Energy StageAccept Stage
+94000 -6.68218 0 4
+# Eq  Energy StageAccept Stage
+94100 -6.66899 0 4
+# Eq  Energy StageAccept Stage
+94200 -6.67805 0 4
+# Eq  Energy StageAccept Stage
+94300 -6.63424 0 4
+# Eq  Energy StageAccept Stage
+94400 -6.69759 0 4
+# Eq  Energy StageAccept Stage
+94500 -6.68727 0 4
+# Eq  Energy StageAccept Stage
+94600 -6.70235 0 4
+# Eq  Energy StageAccept Stage
+94700 -6.58889 0 4
+# Eq  Energy StageAccept Stage
+94800 -6.67819 0 4
+# Eq  Energy StageAccept Stage
+94900 -6.77555 0 4
+# Eq  Energy StageAccept Stage
+95000 -6.69377 0 4
+# Eq  Energy StageAccept Stage
+95100 -6.70618 0 4
+# Eq  Energy StageAccept Stage
+95200 -6.74026 0 4
+# Eq  Energy StageAccept Stage
+95300 -6.66333 0 4
+# Eq  Energy StageAccept Stage
+95400 -6.73031 0 4
+# Eq  Energy StageAccept Stage
+95500 -6.70953 0 4
+# Eq  Energy StageAccept Stage
+95600 -6.66429 0 4
+# Eq  Energy StageAccept Stage
+95700 -6.69739 0 4
+# Eq  Energy StageAccept Stage
+95800 -6.78944 0 4
+# Eq  Energy StageAccept Stage
+95900 -6.82349 0 4
+# Eq  Energy StageAccept Stage
+96000 -6.73157 0 4
+# Eq  Energy StageAccept Stage
+96100 -6.62659 0 4
+# Eq  Energy StageAccept Stage
+96200 -6.60262 0 4
+# Eq  Energy StageAccept Stage
+96300 -6.66811 0 4
+# Eq  Energy StageAccept Stage
+96400 -6.65206 0 4
+# Eq  Energy StageAccept Stage
+96500 -6.63246 0 4
+# Eq  Energy StageAccept Stage
+96600 -6.71762 0 4
+# Eq  Energy StageAccept Stage
+96700 -6.75366 0 4
+# Eq  Energy StageAccept Stage
+96800 -6.74027 0 4
+# Eq  Energy StageAccept Stage
+96900 -6.71904 0 4
+# Eq  Energy StageAccept Stage
+97000 -6.71396 0 4
+# Eq  Energy StageAccept Stage
+97100 -6.68826 0 4
+# Eq  Energy StageAccept Stage
+97200 -6.85569 0 4
+# Eq  Energy StageAccept Stage
+97300 -6.6857 0 4
+# Eq  Energy StageAccept Stage
+97400 -6.68598 0 4
+# Eq  Energy StageAccept Stage
+97500 -6.74012 0 4
+# Eq  Energy StageAccept Stage
+97600 -6.69281 0 4
+# Eq  Energy StageAccept Stage
+97700 -6.67377 0 4
+# Eq  Energy StageAccept Stage
+97800 -6.72218 0 4
+# Eq  Energy StageAccept Stage
+97900 -6.61896 0 4
+# Eq  Energy StageAccept Stage
+98000 -6.65377 0 4
+# Eq  Energy StageAccept Stage
+98100 -6.70218 0 4
+# Eq  Energy StageAccept Stage
+98200 -6.80798 0 4
+# Eq  Energy StageAccept Stage
+98300 -6.73755 0 4
+# Eq  Energy StageAccept Stage
+98400 -6.75213 0 4
+# Eq  Energy StageAccept Stage
+98500 -6.76194 0 4
+# Eq  Energy StageAccept Stage
+98600 -6.79592 0 4
+# Eq  Energy StageAccept Stage
+98700 -6.7725 0 4
+# Eq  Energy StageAccept Stage
+98800 -6.76481 0 4
+# Eq  Energy StageAccept Stage
+98900 -6.6733 0 4
+# Eq  Energy StageAccept Stage
+99000 -6.65347 0 4
+# Eq  Energy StageAccept Stage
+99100 -6.71271 0 4
+# Eq  Energy StageAccept Stage
+99200 -6.75226 0 4
+# Eq  Energy StageAccept Stage
+99300 -6.72924 0 4
+# Eq  Energy StageAccept Stage
+99400 -6.77503 0 4
+# Eq  Energy StageAccept Stage
+99500 -6.78065 0 4
+# Eq  Energy StageAccept Stage
+99600 -6.81431 0 4
+# Eq  Energy StageAccept Stage
+99700 -6.8379 0 4
+# Eq  Energy StageAccept Stage
+99800 -6.74057 0 4
+# Eq  Energy StageAccept Stage
+99900 -6.65451 0 4
+# Eq  Energy StageAccept Stage
+100000 -6.79607 0 4
+# Equilibration ended
+# MC  Energy StageAccept Stage
+100100 -6.78407 0 4
+# MC  Energy StageAccept Stage
+100200 -6.7363 0 4
+# MC  Energy StageAccept Stage
+100300 -6.73443 0 4
+# MC  Energy StageAccept Stage
+100400 -6.73778 0 4
+# MC  Energy StageAccept Stage
+100500 -6.78739 0 4
+# MC  Energy StageAccept Stage
+100600 -6.74813 0 4
+# MC  Energy StageAccept Stage
+100700 -6.7174 0 4
+# MC  Energy StageAccept Stage
+100800 -6.78909 0 4
+# MC  Energy StageAccept Stage
+100900 -6.70524 0 4
+# MC  Energy StageAccept Stage
+101000 -6.71005 0 4
+# MC  Energy StageAccept Stage
+101100 -6.75778 0 4
+# MC  Energy StageAccept Stage
+101200 -6.71938 0 4
+# MC  Energy StageAccept Stage
+101300 -6.76766 0 4
+# MC  Energy StageAccept Stage
+101400 -6.77077 0 4
+# MC  Energy StageAccept Stage
+101500 -6.7702 0 4
+# MC  Energy StageAccept Stage
+101600 -6.82822 0 4
+# MC  Energy StageAccept Stage
+101700 -6.81348 0 4
+# MC  Energy StageAccept Stage
+101800 -6.73274 0 4
+# MC  Energy StageAccept Stage
+101900 -6.75508 0 4
+# MC  Energy StageAccept Stage
+102000 -6.70235 0 4
+# MC  Energy StageAccept Stage
+102100 -6.7615 0 4
+# MC  Energy StageAccept Stage
+102200 -6.71989 0 4
+# MC  Energy StageAccept Stage
+102300 -6.82281 0 4
+# MC  Energy StageAccept Stage
+102400 -6.73097 0 4
+# MC  Energy StageAccept Stage
+102500 -6.66223 0 4
+# MC  Energy StageAccept Stage
+102600 -6.63843 0 4
+# MC  Energy StageAccept Stage
+102700 -6.76299 0 4
+# MC  Energy StageAccept Stage
+102800 -6.76784 0 4
+# MC  Energy StageAccept Stage
+102900 -6.71923 0 4
+# MC  Energy StageAccept Stage
+103000 -6.69673 0 4
+# MC  Energy StageAccept Stage
+103100 -6.67612 0 4
+# MC  Energy StageAccept Stage
+103200 -6.71894 0 4
+# MC  Energy StageAccept Stage
+103300 -6.69997 0 4
+# MC  Energy StageAccept Stage
+103400 -6.7254 0 4
+# MC  Energy StageAccept Stage
+103500 -6.72046 0 4
+# MC  Energy StageAccept Stage
+103600 -6.64633 0 4
+# MC  Energy StageAccept Stage
+103700 -6.72419 0 4
+# MC  Energy StageAccept Stage
+103800 -6.74126 0 4
+# MC  Energy StageAccept Stage
+103900 -6.76541 0 4
+# MC  Energy StageAccept Stage
+104000 -6.72714 0 4
+# MC  Energy StageAccept Stage
+104100 -6.66875 0 4
+# MC  Energy StageAccept Stage
+104200 -6.63965 0 4
+# MC  Energy StageAccept Stage
+104300 -6.76642 0 4
+# MC  Energy StageAccept Stage
+104400 -6.74897 0 4
+# MC  Energy StageAccept Stage
+104500 -6.70553 0 4
+# MC  Energy StageAccept Stage
+104600 -6.76749 0 4
+# MC  Energy StageAccept Stage
+104700 -6.75869 0 4
+# MC  Energy StageAccept Stage
+104800 -6.69009 0 4
+# MC  Energy StageAccept Stage
+104900 -6.67091 0 4
+# MC  Energy StageAccept Stage
+105000 -6.69983 0 4
+# MC  Energy StageAccept Stage
+105100 -6.70832 0 4
+# MC  Energy StageAccept Stage
+105200 -6.68565 0 4
+# MC  Energy StageAccept Stage
+105300 -6.69338 0 4
+# MC  Energy StageAccept Stage
+105400 -6.76416 0 4
+# MC  Energy StageAccept Stage
+105500 -6.62882 0 4
+# MC  Energy StageAccept Stage
+105600 -6.70129 0 4
+# MC  Energy StageAccept Stage
+105700 -6.70101 0 4
+# MC  Energy StageAccept Stage
+105800 -6.68548 0 4
+# MC  Energy StageAccept Stage
+105900 -6.69379 0 4
+# MC  Energy StageAccept Stage
+106000 -6.70355 0 4
+# MC  Energy StageAccept Stage
+106100 -6.64141 0 4
+# MC  Energy StageAccept Stage
+106200 -6.80618 0 4
+# MC  Energy StageAccept Stage
+106300 -6.74834 0 4
+# MC  Energy StageAccept Stage
+106400 -6.75028 0 4
+# MC  Energy StageAccept Stage
+106500 -6.6938 0 4
+# MC  Energy StageAccept Stage
+106600 -6.66195 0 4
+# MC  Energy StageAccept Stage
+106700 -6.69794 0 4
+# MC  Energy StageAccept Stage
+106800 -6.78573 0 4
+# MC  Energy StageAccept Stage
+106900 -6.75462 0 4
+# MC  Energy StageAccept Stage
+107000 -6.76272 0 4
+# MC  Energy StageAccept Stage
+107100 -6.71556 0 4
+# MC  Energy StageAccept Stage
+107200 -6.7933 0 4
+# MC  Energy StageAccept Stage
+107300 -6.70471 0 4
+# MC  Energy StageAccept Stage
+107400 -6.69018 0 4
+# MC  Energy StageAccept Stage
+107500 -6.77497 0 4
+# MC  Energy StageAccept Stage
+107600 -6.77362 0 4
+# MC  Energy StageAccept Stage
+107700 -6.68148 0 4
+# MC  Energy StageAccept Stage
+107800 -6.73351 0 4
+# MC  Energy StageAccept Stage
+107900 -6.65352 0 4
+# MC  Energy StageAccept Stage
+108000 -6.76342 0 4
+# MC  Energy StageAccept Stage
+108100 -6.71527 0 4
+# MC  Energy StageAccept Stage
+108200 -6.71688 0 4
+# MC  Energy StageAccept Stage
+108300 -6.8368 0 4
+# MC  Energy StageAccept Stage
+108400 -6.82445 0 4
+# MC  Energy StageAccept Stage
+108500 -6.74753 0 4
+# MC  Energy StageAccept Stage
+108600 -6.74519 0 4
+# MC  Energy StageAccept Stage
+108700 -6.70599 0 4
+# MC  Energy StageAccept Stage
+108800 -6.76001 0 4
+# MC  Energy StageAccept Stage
+108900 -6.7971 0 4
+# MC  Energy StageAccept Stage
+109000 -6.76835 0 4
+# MC  Energy StageAccept Stage
+109100 -6.68125 0 4
+# MC  Energy StageAccept Stage
+109200 -6.81277 0 4
+# MC  Energy StageAccept Stage
+109300 -6.81536 0 4
+# MC  Energy StageAccept Stage
+109400 -6.79631 0 4
+# MC  Energy StageAccept Stage
+109500 -6.7036 0 4
+# MC  Energy StageAccept Stage
+109600 -6.77798 0 4
+# MC  Energy StageAccept Stage
+109700 -6.81459 0 4
+# MC  Energy StageAccept Stage
+109800 -6.71484 0 4
+# MC  Energy StageAccept Stage
+109900 -6.68756 0 4
+# MC  Energy StageAccept Stage
+110000 -6.6971 0 4
+# MC  Energy StageAccept Stage
+110100 -6.72348 0 4
+# MC  Energy StageAccept Stage
+110200 -6.78504 0 4
+# MC  Energy StageAccept Stage
+110300 -6.79258 0 4
+# MC  Energy StageAccept Stage
+110400 -6.76129 0 4
+# MC  Energy StageAccept Stage
+110500 -6.77416 0 4
+# MC  Energy StageAccept Stage
+110600 -6.75062 0 4
+# MC  Energy StageAccept Stage
+110700 -6.78938 0 4
+# MC  Energy StageAccept Stage
+110800 -6.75833 0 4
+# MC  Energy StageAccept Stage
+110900 -6.7781 0 4
+# MC  Energy StageAccept Stage
+111000 -6.78113 0 4
+# MC  Energy StageAccept Stage
+111100 -6.82736 0 4
+# MC  Energy StageAccept Stage
+111200 -6.7106 0 4
+# MC  Energy StageAccept Stage
+111300 -6.72455 0 4
+# MC  Energy StageAccept Stage
+111400 -6.63077 0 4
+# MC  Energy StageAccept Stage
+111500 -6.78397 0 4
+# MC  Energy StageAccept Stage
+111600 -6.84393 0 4
+# MC  Energy StageAccept Stage
+111700 -6.78146 0 4
+# MC  Energy StageAccept Stage
+111800 -6.78455 0 4
+# MC  Energy StageAccept Stage
+111900 -6.7661 0 4
+# MC  Energy StageAccept Stage
+112000 -6.64236 0 4
+# MC  Energy StageAccept Stage
+112100 -6.76792 0 4
+# MC  Energy StageAccept Stage
+112200 -6.79592 0 4
+# MC  Energy StageAccept Stage
+112300 -6.66187 0 4
+# MC  Energy StageAccept Stage
+112400 -6.76606 0 4
+# MC  Energy StageAccept Stage
+112500 -6.70812 0 4
+# MC  Energy StageAccept Stage
+112600 -6.83769 0 4
+# MC  Energy StageAccept Stage
+112700 -6.83485 0 4
+# MC  Energy StageAccept Stage
+112800 -6.73091 0 4
+# MC  Energy StageAccept Stage
+112900 -6.72863 0 4
+# MC  Energy StageAccept Stage
+113000 -6.69842 0 4
+# MC  Energy StageAccept Stage
+113100 -6.78938 0 4
+# MC  Energy StageAccept Stage
+113200 -6.70851 0 4
+# MC  Energy StageAccept Stage
+113300 -6.80024 0 4
+# MC  Energy StageAccept Stage
+113400 -6.77172 0 4
+# MC  Energy StageAccept Stage
+113500 -6.75361 0 4
+# MC  Energy StageAccept Stage
+113600 -6.72959 0 4
+# MC  Energy StageAccept Stage
+113700 -6.74998 0 4
+# MC  Energy StageAccept Stage
+113800 -6.74984 0 4
+# MC  Energy StageAccept Stage
+113900 -6.68439 0 4
+# MC  Energy StageAccept Stage
+114000 -6.73938 0 4
+# MC  Energy StageAccept Stage
+114100 -6.79807 0 4
+# MC  Energy StageAccept Stage
+114200 -6.67628 0 4
+# MC  Energy StageAccept Stage
+114300 -6.73111 0 4
+# MC  Energy StageAccept Stage
+114400 -6.69609 0 4
+# MC  Energy StageAccept Stage
+114500 -6.77017 0 4
+# MC  Energy StageAccept Stage
+114600 -6.73588 0 4
+# MC  Energy StageAccept Stage
+114700 -6.78092 0 4
+# MC  Energy StageAccept Stage
+114800 -6.87886 0 4
+# MC  Energy StageAccept Stage
+114900 -6.76552 0 4
+# MC  Energy StageAccept Stage
+115000 -6.73405 0 4
+# MC  Energy StageAccept Stage
+115100 -6.73742 0 4
+# MC  Energy StageAccept Stage
+115200 -6.80247 0 4
+# MC  Energy StageAccept Stage
+115300 -6.70897 0 4
+# MC  Energy StageAccept Stage
+115400 -6.84251 0 4
+# MC  Energy StageAccept Stage
+115500 -6.71907 0 4
+# MC  Energy StageAccept Stage
+115600 -6.77381 0 4
+# MC  Energy StageAccept Stage
+115700 -6.78043 0 4
+# MC  Energy StageAccept Stage
+115800 -6.8093 0 4
+# MC  Energy StageAccept Stage
+115900 -6.74068 0 4
+# MC  Energy StageAccept Stage
+116000 -6.71829 0 4
+# MC  Energy StageAccept Stage
+116100 -6.68219 0 4
+# MC  Energy StageAccept Stage
+116200 -6.73622 0 4
+# MC  Energy StageAccept Stage
+116300 -6.71113 0 4
+# MC  Energy StageAccept Stage
+116400 -6.794 0 4
+# MC  Energy StageAccept Stage
+116500 -6.76369 0 4
+# MC  Energy StageAccept Stage
+116600 -6.82133 0 4
+# MC  Energy StageAccept Stage
+116700 -6.7517 0 4
+# MC  Energy StageAccept Stage
+116800 -6.81234 0 4
+# MC  Energy StageAccept Stage
+116900 -6.8242 0 4
+# MC  Energy StageAccept Stage
+117000 -6.72129 0 4
+# MC  Energy StageAccept Stage
+117100 -6.79491 0 4
+# MC  Energy StageAccept Stage
+117200 -6.77509 0 4
+# MC  Energy StageAccept Stage
+117300 -6.71886 0 4
+# MC  Energy StageAccept Stage
+117400 -6.7195 0 4
+# MC  Energy StageAccept Stage
+117500 -6.87091 0 4
+# MC  Energy StageAccept Stage
+117600 -6.72653 0 4
+# MC  Energy StageAccept Stage
+117700 -6.70956 0 4
+# MC  Energy StageAccept Stage
+117800 -6.79379 0 4
+# MC  Energy StageAccept Stage
+117900 -6.71188 0 4
+# MC  Energy StageAccept Stage
+118000 -6.77823 0 4
+# MC  Energy StageAccept Stage
+118100 -6.77764 0 4
+# MC  Energy StageAccept Stage
+118200 -6.78846 0 4
+# MC  Energy StageAccept Stage
+118300 -6.81896 0 4
+# MC  Energy StageAccept Stage
+118400 -6.69256 0 4
+# MC  Energy StageAccept Stage
+118500 -6.77156 0 4
+# MC  Energy StageAccept Stage
+118600 -6.8146 0 4
+# MC  Energy StageAccept Stage
+118700 -6.72033 0 4
+# MC  Energy StageAccept Stage
+118800 -6.83995 0 4
+# MC  Energy StageAccept Stage
+118900 -6.7553 0 4
+# MC  Energy StageAccept Stage
+119000 -6.68615 0 4
+# MC  Energy StageAccept Stage
+119100 -6.69614 0 4
+# MC  Energy StageAccept Stage
+119200 -6.78609 0 4
+# MC  Energy StageAccept Stage
+119300 -6.76387 0 4
+# MC  Energy StageAccept Stage
+119400 -6.79987 0 4
+# MC  Energy StageAccept Stage
+119500 -6.77357 0 4
+# MC  Energy StageAccept Stage
+119600 -6.71911 0 4
+# MC  Energy StageAccept Stage
+119700 -6.80329 0 4
+# MC  Energy StageAccept Stage
+119800 -6.70548 0 4
+# MC  Energy StageAccept Stage
+119900 -6.75577 0 4
+# MC  Energy StageAccept Stage
+120000 -6.76811 0 4
+# MC  Energy StageAccept Stage
+120100 -6.7546 0 4
+# MC  Energy StageAccept Stage
+120200 -6.69117 0 4
+# MC  Energy StageAccept Stage
+120300 -6.79326 0 4
+# MC  Energy StageAccept Stage
+120400 -6.75208 0 4
+# MC  Energy StageAccept Stage
+120500 -6.79119 0 4
+# MC  Energy StageAccept Stage
+120600 -6.68298 0 4
+# MC  Energy StageAccept Stage
+120700 -6.74326 0 4
+# MC  Energy StageAccept Stage
+120800 -6.68456 0 4
+# MC  Energy StageAccept Stage
+120900 -6.73228 0 4
+# MC  Energy StageAccept Stage
+121000 -6.81779 0 4
+# MC  Energy StageAccept Stage
+121100 -6.77378 0 4
+# MC  Energy StageAccept Stage
+121200 -6.76182 0 4
+# MC  Energy StageAccept Stage
+121300 -6.72741 0 4
+# MC  Energy StageAccept Stage
+121400 -6.80113 0 4
+# MC  Energy StageAccept Stage
+121500 -6.84188 0 4
+# MC  Energy StageAccept Stage
+121600 -6.70553 0 4
+# MC  Energy StageAccept Stage
+121700 -6.71551 0 4
+# MC  Energy StageAccept Stage
+121800 -6.73016 0 4
+# MC  Energy StageAccept Stage
+121900 -6.73163 0 4
+# MC  Energy StageAccept Stage
+122000 -6.79767 0 4
+# MC  Energy StageAccept Stage
+122100 -6.78727 0 4
+# MC  Energy StageAccept Stage
+122200 -6.6203 0 4
+# MC  Energy StageAccept Stage
+122300 -6.7969 0 4
+# MC  Energy StageAccept Stage
+122400 -6.65549 0 4
+# MC  Energy StageAccept Stage
+122500 -6.77593 0 4
+# MC  Energy StageAccept Stage
+122600 -6.72361 0 4
+# MC  Energy StageAccept Stage
+122700 -6.6446 0 4
+# MC  Energy StageAccept Stage
+122800 -6.82989 0 4
+# MC  Energy StageAccept Stage
+122900 -6.80884 0 4
+# MC  Energy StageAccept Stage
+123000 -6.77768 0 4
+# MC  Energy StageAccept Stage
+123100 -6.63775 0 4
+# MC  Energy StageAccept Stage
+123200 -6.76814 0 4
+# MC  Energy StageAccept Stage
+123300 -6.73016 0 4
+# MC  Energy StageAccept Stage
+123400 -6.7539 0 4
+# MC  Energy StageAccept Stage
+123500 -6.76774 0 4
+# MC  Energy StageAccept Stage
+123600 -6.74191 0 4
+# MC  Energy StageAccept Stage
+123700 -6.71717 0 4
+# MC  Energy StageAccept Stage
+123800 -6.64245 0 4
+# MC  Energy StageAccept Stage
+123900 -6.69709 0 4
+# MC  Energy StageAccept Stage
+124000 -6.67433 0 4
+# MC  Energy StageAccept Stage
+124100 -6.68547 0 4
+# MC  Energy StageAccept Stage
+124200 -6.69703 0 4
+# MC  Energy StageAccept Stage
+124300 -6.77321 0 4
+# MC  Energy StageAccept Stage
+124400 -6.6869 0 4
+# MC  Energy StageAccept Stage
+124500 -6.73829 0 4
+# MC  Energy StageAccept Stage
+124600 -6.65679 0 4
+# MC  Energy StageAccept Stage
+124700 -6.69578 0 4
+# MC  Energy StageAccept Stage
+124800 -6.74346 0 4
+# MC  Energy StageAccept Stage
+124900 -6.67229 0 4
+# MC  Energy StageAccept Stage
+125000 -6.66215 0 4
+# MC  Energy StageAccept Stage
+125100 -6.69104 0 4
+# MC  Energy StageAccept Stage
+125200 -6.75671 0 4
+# MC  Energy StageAccept Stage
+125300 -6.70359 0 4
+# MC  Energy StageAccept Stage
+125400 -6.69518 0 4
+# MC  Energy StageAccept Stage
+125500 -6.72993 0 4
+# MC  Energy StageAccept Stage
+125600 -6.83361 0 4
+# MC  Energy StageAccept Stage
+125700 -6.6805 0 4
+# MC  Energy StageAccept Stage
+125800 -6.75062 0 4
+# MC  Energy StageAccept Stage
+125900 -6.68729 0 4
+# MC  Energy StageAccept Stage
+126000 -6.72672 0 4
+# MC  Energy StageAccept Stage
+126100 -6.72231 0 4
+# MC  Energy StageAccept Stage
+126200 -6.78434 0 4
+# MC  Energy StageAccept Stage
+126300 -6.7917 0 4
+# MC  Energy StageAccept Stage
+126400 -6.73158 0 4
+# MC  Energy StageAccept Stage
+126500 -6.65765 0 4
+# MC  Energy StageAccept Stage
+126600 -6.66863 0 4
+# MC  Energy StageAccept Stage
+126700 -6.71851 0 4
+# MC  Energy StageAccept Stage
+126800 -6.75188 0 4
+# MC  Energy StageAccept Stage
+126900 -6.75429 0 4
+# MC  Energy StageAccept Stage
+127000 -6.74607 0 4
+# MC  Energy StageAccept Stage
+127100 -6.75528 0 4
+# MC  Energy StageAccept Stage
+127200 -6.706 0 4
+# MC  Energy StageAccept Stage
+127300 -6.72553 0 4
+# MC  Energy StageAccept Stage
+127400 -6.78532 0 4
+# MC  Energy StageAccept Stage
+127500 -6.79658 0 4
+# MC  Energy StageAccept Stage
+127600 -6.69174 0 4
+# MC  Energy StageAccept Stage
+127700 -6.67689 0 4
+# MC  Energy StageAccept Stage
+127800 -6.65893 0 4
+# MC  Energy StageAccept Stage
+127900 -6.77871 0 4
+# MC  Energy StageAccept Stage
+128000 -6.70188 0 4
+# MC  Energy StageAccept Stage
+128100 -6.6984 0 4
+# MC  Energy StageAccept Stage
+128200 -6.65915 0 4
+# MC  Energy StageAccept Stage
+128300 -6.72698 0 4
+# MC  Energy StageAccept Stage
+128400 -6.84803 0 4
+# MC  Energy StageAccept Stage
+128500 -6.81872 0 4
+# MC  Energy StageAccept Stage
+128600 -6.68215 0 4
+# MC  Energy StageAccept Stage
+128700 -6.71266 0 4
+# MC  Energy StageAccept Stage
+128800 -6.72119 0 4
+# MC  Energy StageAccept Stage
+128900 -6.68359 0 4
+# MC  Energy StageAccept Stage
+129000 -6.73921 0 4
+# MC  Energy StageAccept Stage
+129100 -6.67672 0 4
+# MC  Energy StageAccept Stage
+129200 -6.7086 0 4
+# MC  Energy StageAccept Stage
+129300 -6.8262 0 4
+# MC  Energy StageAccept Stage
+129400 -6.73497 0 4
+# MC  Energy StageAccept Stage
+129500 -6.73211 0 4
+# MC  Energy StageAccept Stage
+129600 -6.73342 0 4
+# MC  Energy StageAccept Stage
+129700 -6.74696 0 4
+# MC  Energy StageAccept Stage
+129800 -6.79996 0 4
+# MC  Energy StageAccept Stage
+129900 -6.7127 0 4
+# MC  Energy StageAccept Stage
+130000 -6.80844 0 4
+# MC  Energy StageAccept Stage
+130100 -6.76364 0 4
+# MC  Energy StageAccept Stage
+130200 -6.81655 0 4
+# MC  Energy StageAccept Stage
+130300 -6.78587 0 4
+# MC  Energy StageAccept Stage
+130400 -6.76781 0 4
+# MC  Energy StageAccept Stage
+130500 -6.75967 0 4
+# MC  Energy StageAccept Stage
+130600 -6.78894 0 4
+# MC  Energy StageAccept Stage
+130700 -6.74014 0 4
+# MC  Energy StageAccept Stage
+130800 -6.71705 0 4
+# MC  Energy StageAccept Stage
+130900 -6.76274 0 4
+# MC  Energy StageAccept Stage
+131000 -6.77825 0 4
+# MC  Energy StageAccept Stage
+131100 -6.65735 0 4
+# MC  Energy StageAccept Stage
+131200 -6.72114 0 4
+# MC  Energy StageAccept Stage
+131300 -6.74272 0 4
+# MC  Energy StageAccept Stage
+131400 -6.74123 0 4
+# MC  Energy StageAccept Stage
+131500 -6.74086 0 4
+# MC  Energy StageAccept Stage
+131600 -6.65919 0 4
+# MC  Energy StageAccept Stage
+131700 -6.79588 0 4
+# MC  Energy StageAccept Stage
+131800 -6.68689 0 4
+# MC  Energy StageAccept Stage
+131900 -6.58875 0 4
+# MC  Energy StageAccept Stage
+132000 -6.7957 0 4
+# MC  Energy StageAccept Stage
+132100 -6.78556 0 4
+# MC  Energy StageAccept Stage
+132200 -6.67042 0 4
+# MC  Energy StageAccept Stage
+132300 -6.74968 0 4
+# MC  Energy StageAccept Stage
+132400 -6.73255 0 4
+# MC  Energy StageAccept Stage
+132500 -6.76391 0 4
+# MC  Energy StageAccept Stage
+132600 -6.71967 0 4
+# MC  Energy StageAccept Stage
+132700 -6.77002 0 4
+# MC  Energy StageAccept Stage
+132800 -6.74815 0 4
+# MC  Energy StageAccept Stage
+132900 -6.72068 0 4
+# MC  Energy StageAccept Stage
+133000 -6.80835 0 4
+# MC  Energy StageAccept Stage
+133100 -6.78977 0 4
+# MC  Energy StageAccept Stage
+133200 -6.70158 0 4
+# MC  Energy StageAccept Stage
+133300 -6.77059 0 4
+# MC  Energy StageAccept Stage
+133400 -6.67009 0 4
+# MC  Energy StageAccept Stage
+133500 -6.73818 0 4
+# MC  Energy StageAccept Stage
+133600 -6.6752 0 4
+# MC  Energy StageAccept Stage
+133700 -6.7841 0 4
+# MC  Energy StageAccept Stage
+133800 -6.65812 0 4
+# MC  Energy StageAccept Stage
+133900 -6.75811 0 4
+# MC  Energy StageAccept Stage
+134000 -6.74933 0 4
+# MC  Energy StageAccept Stage
+134100 -6.75462 0 4
+# MC  Energy StageAccept Stage
+134200 -6.68204 0 4
+# MC  Energy StageAccept Stage
+134300 -6.68053 0 4
+# MC  Energy StageAccept Stage
+134400 -6.87983 0 4
+# MC  Energy StageAccept Stage
+134500 -6.64244 0 4
+# MC  Energy StageAccept Stage
+134600 -6.74062 0 4
+# MC  Energy StageAccept Stage
+134700 -6.67041 0 4
+# MC  Energy StageAccept Stage
+134800 -6.82818 0 4
+# MC  Energy StageAccept Stage
+134900 -6.81625 0 4
+# MC  Energy StageAccept Stage
+135000 -6.79767 0 4
+# MC  Energy StageAccept Stage
+135100 -6.80714 0 4
+# MC  Energy StageAccept Stage
+135200 -6.69481 0 4
+# MC  Energy StageAccept Stage
+135300 -6.7013 0 4
+# MC  Energy StageAccept Stage
+135400 -6.7044 0 4
+# MC  Energy StageAccept Stage
+135500 -6.69981 0 4
+# MC  Energy StageAccept Stage
+135600 -6.67942 0 4
+# MC  Energy StageAccept Stage
+135700 -6.69141 0 4
+# MC  Energy StageAccept Stage
+135800 -6.71647 0 4
+# MC  Energy StageAccept Stage
+135900 -6.62642 0 4
+# MC  Energy StageAccept Stage
+136000 -6.73522 0 4
+# MC  Energy StageAccept Stage
+136100 -6.71356 0 4
+# MC  Energy StageAccept Stage
+136200 -6.74474 0 4
+# MC  Energy StageAccept Stage
+136300 -6.7184 0 4
+# MC  Energy StageAccept Stage
+136400 -6.8119 0 4
+# MC  Energy StageAccept Stage
+136500 -6.72799 0 4
+# MC  Energy StageAccept Stage
+136600 -6.75362 0 4
+# MC  Energy StageAccept Stage
+136700 -6.72071 0 4
+# MC  Energy StageAccept Stage
+136800 -6.64465 0 4
+# MC  Energy StageAccept Stage
+136900 -6.69528 0 4
+# MC  Energy StageAccept Stage
+137000 -6.76712 0 4
+# MC  Energy StageAccept Stage
+137100 -6.76352 0 4
+# MC  Energy StageAccept Stage
+137200 -6.72086 0 4
+# MC  Energy StageAccept Stage
+137300 -6.72327 0 4
+# MC  Energy StageAccept Stage
+137400 -6.7444 0 4
+# MC  Energy StageAccept Stage
+137500 -6.72003 0 4
+# MC  Energy StageAccept Stage
+137600 -6.68037 0 4
+# MC  Energy StageAccept Stage
+137700 -6.74288 0 4
+# MC  Energy StageAccept Stage
+137800 -6.75859 0 4
+# MC  Energy StageAccept Stage
+137900 -6.75216 0 4
+# MC  Energy StageAccept Stage
+138000 -6.7846 0 4
+# MC  Energy StageAccept Stage
+138100 -6.75402 0 4
+# MC  Energy StageAccept Stage
+138200 -6.76492 0 4
+# MC  Energy StageAccept Stage
+138300 -6.74168 0 4
+# MC  Energy StageAccept Stage
+138400 -6.71962 0 4
+# MC  Energy StageAccept Stage
+138500 -6.78577 0 4
+# MC  Energy StageAccept Stage
+138600 -6.70351 0 4
+# MC  Energy StageAccept Stage
+138700 -6.73137 0 4
+# MC  Energy StageAccept Stage
+138800 -6.70326 0 4
+# MC  Energy StageAccept Stage
+138900 -6.67529 0 4
+# MC  Energy StageAccept Stage
+139000 -6.6537 0 4
+# MC  Energy StageAccept Stage
+139100 -6.77046 0 4
+# MC  Energy StageAccept Stage
+139200 -6.74248 0 4
+# MC  Energy StageAccept Stage
+139300 -6.70996 0 4
+# MC  Energy StageAccept Stage
+139400 -6.7371 0 4
+# MC  Energy StageAccept Stage
+139500 -6.6898 0 4
+# MC  Energy StageAccept Stage
+139600 -6.78711 0 4
+# MC  Energy StageAccept Stage
+139700 -6.71631 0 4
+# MC  Energy StageAccept Stage
+139800 -6.75116 0 4
+# MC  Energy StageAccept Stage
+139900 -6.72933 0 4
+# MC  Energy StageAccept Stage
+140000 -6.77604 0 4
+# MC  Energy StageAccept Stage
+140100 -6.76251 0 4
+# MC  Energy StageAccept Stage
+140200 -6.68585 0 4
+# MC  Energy StageAccept Stage
+140300 -6.74847 0 4
+# MC  Energy StageAccept Stage
+140400 -6.81327 0 4
+# MC  Energy StageAccept Stage
+140500 -6.77945 0 4
+# MC  Energy StageAccept Stage
+140600 -6.80078 0 4
+# MC  Energy StageAccept Stage
+140700 -6.66521 0 4
+# MC  Energy StageAccept Stage
+140800 -6.81552 0 4
+# MC  Energy StageAccept Stage
+140900 -6.7012 0 4
+# MC  Energy StageAccept Stage
+141000 -6.70689 0 4
+# MC  Energy StageAccept Stage
+141100 -6.84653 0 4
+# MC  Energy StageAccept Stage
+141200 -6.64748 0 4
+# MC  Energy StageAccept Stage
+141300 -6.69807 0 4
+# MC  Energy StageAccept Stage
+141400 -6.7108 0 4
+# MC  Energy StageAccept Stage
+141500 -6.76019 0 4
+# MC  Energy StageAccept Stage
+141600 -6.7399 0 4
+# MC  Energy StageAccept Stage
+141700 -6.79238 0 4
+# MC  Energy StageAccept Stage
+141800 -6.66037 0 4
+# MC  Energy StageAccept Stage
+141900 -6.83389 0 4
+# MC  Energy StageAccept Stage
+142000 -6.75619 0 4
+# MC  Energy StageAccept Stage
+142100 -6.81337 0 4
+# MC  Energy StageAccept Stage
+142200 -6.78197 0 4
+# MC  Energy StageAccept Stage
+142300 -6.76197 0 4
+# MC  Energy StageAccept Stage
+142400 -6.80549 0 4
+# MC  Energy StageAccept Stage
+142500 -6.68989 0 4
+# MC  Energy StageAccept Stage
+142600 -6.66719 0 4
+# MC  Energy StageAccept Stage
+142700 -6.7733 0 4
+# MC  Energy StageAccept Stage
+142800 -6.76411 0 4
+# MC  Energy StageAccept Stage
+142900 -6.74073 0 4
+# MC  Energy StageAccept Stage
+143000 -6.7584 0 4
+# MC  Energy StageAccept Stage
+143100 -6.73097 0 4
+# MC  Energy StageAccept Stage
+143200 -6.80373 0 4
+# MC  Energy StageAccept Stage
+143300 -6.81703 0 4
+# MC  Energy StageAccept Stage
+143400 -6.79233 0 4
+# MC  Energy StageAccept Stage
+143500 -6.78881 0 4
+# MC  Energy StageAccept Stage
+143600 -6.78709 0 4
+# MC  Energy StageAccept Stage
+143700 -6.74904 0 4
+# MC  Energy StageAccept Stage
+143800 -6.68494 0 4
+# MC  Energy StageAccept Stage
+143900 -6.73308 0 4
+# MC  Energy StageAccept Stage
+144000 -6.69742 0 4
+# MC  Energy StageAccept Stage
+144100 -6.7524 0 4
+# MC  Energy StageAccept Stage
+144200 -6.72804 0 4
+# MC  Energy StageAccept Stage
+144300 -6.76013 0 4
+# MC  Energy StageAccept Stage
+144400 -6.73969 0 4
+# MC  Energy StageAccept Stage
+144500 -6.66673 0 4
+# MC  Energy StageAccept Stage
+144600 -6.68842 0 4
+# MC  Energy StageAccept Stage
+144700 -6.76505 0 4
+# MC  Energy StageAccept Stage
+144800 -6.74104 0 4
+# MC  Energy StageAccept Stage
+144900 -6.78843 0 4
+# MC  Energy StageAccept Stage
+145000 -6.74202 0 4
+# MC  Energy StageAccept Stage
+145100 -6.74378 0 4
+# MC  Energy StageAccept Stage
+145200 -6.73994 0 4
+# MC  Energy StageAccept Stage
+145300 -6.68853 0 4
+# MC  Energy StageAccept Stage
+145400 -6.62224 0 4
+# MC  Energy StageAccept Stage
+145500 -6.82385 0 4
+# MC  Energy StageAccept Stage
+145600 -6.81258 0 4
+# MC  Energy StageAccept Stage
+145700 -6.67034 0 4
+# MC  Energy StageAccept Stage
+145800 -6.7013 0 4
+# MC  Energy StageAccept Stage
+145900 -6.75188 0 4
+# MC  Energy StageAccept Stage
+146000 -6.71662 0 4
+# MC  Energy StageAccept Stage
+146100 -6.74737 0 4
+# MC  Energy StageAccept Stage
+146200 -6.79462 0 4
+# MC  Energy StageAccept Stage
+146300 -6.68664 0 4
+# MC  Energy StageAccept Stage
+146400 -6.74303 0 4
+# MC  Energy StageAccept Stage
+146500 -6.77317 0 4
+# MC  Energy StageAccept Stage
+146600 -6.72038 0 4
+# MC  Energy StageAccept Stage
+146700 -6.86512 0 4
+# MC  Energy StageAccept Stage
+146800 -6.75336 0 4
+# MC  Energy StageAccept Stage
+146900 -6.63503 0 4
+# MC  Energy StageAccept Stage
+147000 -6.71921 0 4
+# MC  Energy StageAccept Stage
+147100 -6.75224 0 4
+# MC  Energy StageAccept Stage
+147200 -6.7441 0 4
+# MC  Energy StageAccept Stage
+147300 -6.69257 0 4
+# MC  Energy StageAccept Stage
+147400 -6.76739 0 4
+# MC  Energy StageAccept Stage
+147500 -6.749 0 4
+# MC  Energy StageAccept Stage
+147600 -6.73493 0 4
+# MC  Energy StageAccept Stage
+147700 -6.79287 0 4
+# MC  Energy StageAccept Stage
+147800 -6.84466 0 4
+# MC  Energy StageAccept Stage
+147900 -6.77554 0 4
+# MC  Energy StageAccept Stage
+148000 -6.81554 0 4
+# MC  Energy StageAccept Stage
+148100 -6.68493 0 4
+# MC  Energy StageAccept Stage
+148200 -6.78311 0 4
+# MC  Energy StageAccept Stage
+148300 -6.70721 0 4
+# MC  Energy StageAccept Stage
+148400 -6.7305 0 4
+# MC  Energy StageAccept Stage
+148500 -6.78911 0 4
+# MC  Energy StageAccept Stage
+148600 -6.73394 0 4
+# MC  Energy StageAccept Stage
+148700 -6.80683 0 4
+# MC  Energy StageAccept Stage
+148800 -6.74402 0 4
+# MC  Energy StageAccept Stage
+148900 -6.71276 0 4
+# MC  Energy StageAccept Stage
+149000 -6.73691 0 4
+# MC  Energy StageAccept Stage
+149100 -6.73614 0 4
+# MC  Energy StageAccept Stage
+149200 -6.73062 0 4
+# MC  Energy StageAccept Stage
+149300 -6.68151 0 4
+# MC  Energy StageAccept Stage
+149400 -6.65857 0 4
+# MC  Energy StageAccept Stage
+149500 -6.77104 0 4
+# MC  Energy StageAccept Stage
+149600 -6.64673 0 4
+# MC  Energy StageAccept Stage
+149700 -6.80655 0 4
+# MC  Energy StageAccept Stage
+149800 -6.68683 0 4
+# MC  Energy StageAccept Stage
+149900 -6.74632 0 4
+# MC  Energy StageAccept Stage
+150000 -6.71901 0 4
+# MC  Energy StageAccept Stage
+150100 -6.7058 0 4
+# MC  Energy StageAccept Stage
+150200 -6.65851 0 4
+# MC  Energy StageAccept Stage
+150300 -6.69144 0 4
+# MC  Energy StageAccept Stage
+150400 -6.69691 0 4
+# MC  Energy StageAccept Stage
+150500 -6.70831 0 4
+# MC  Energy StageAccept Stage
+150600 -6.7223 0 4
+# MC  Energy StageAccept Stage
+150700 -6.74946 0 4
+# MC  Energy StageAccept Stage
+150800 -6.65698 0 4
+# MC  Energy StageAccept Stage
+150900 -6.69918 0 4
+# MC  Energy StageAccept Stage
+151000 -6.776 0 4
+# MC  Energy StageAccept Stage
+151100 -6.75622 0 4
+# MC  Energy StageAccept Stage
+151200 -6.77845 0 4
+# MC  Energy StageAccept Stage
+151300 -6.73338 0 4
+# MC  Energy StageAccept Stage
+151400 -6.74759 0 4
+# MC  Energy StageAccept Stage
+151500 -6.68113 0 4
+# MC  Energy StageAccept Stage
+151600 -6.74252 0 4
+# MC  Energy StageAccept Stage
+151700 -6.72755 0 4
+# MC  Energy StageAccept Stage
+151800 -6.6774 0 4
+# MC  Energy StageAccept Stage
+151900 -6.75642 0 4
+# MC  Energy StageAccept Stage
+152000 -6.73448 0 4
+# MC  Energy StageAccept Stage
+152100 -6.61182 0 4
+# MC  Energy StageAccept Stage
+152200 -6.6293 0 4
+# MC  Energy StageAccept Stage
+152300 -6.69996 0 4
+# MC  Energy StageAccept Stage
+152400 -6.70641 0 4
+# MC  Energy StageAccept Stage
+152500 -6.63896 0 4
+# MC  Energy StageAccept Stage
+152600 -6.60348 0 4
+# MC  Energy StageAccept Stage
+152700 -6.6539 0 4
+# MC  Energy StageAccept Stage
+152800 -6.70681 0 4
+# MC  Energy StageAccept Stage
+152900 -6.67499 0 4
+# MC  Energy StageAccept Stage
+153000 -6.72809 0 4
+# MC  Energy StageAccept Stage
+153100 -6.76703 0 4
+# MC  Energy StageAccept Stage
+153200 -6.75301 0 4
+# MC  Energy StageAccept Stage
+153300 -6.61457 0 4
+# MC  Energy StageAccept Stage
+153400 -6.68071 0 4
+# MC  Energy StageAccept Stage
+153500 -6.61371 0 4
+# MC  Energy StageAccept Stage
+153600 -6.62362 0 4
+# MC  Energy StageAccept Stage
+153700 -6.70242 0 4
+# MC  Energy StageAccept Stage
+153800 -6.6462 0 4
+# MC  Energy StageAccept Stage
+153900 -6.62706 0 4
+# MC  Energy StageAccept Stage
+154000 -6.63298 0 4
+# MC  Energy StageAccept Stage
+154100 -6.71566 0 4
+# MC  Energy StageAccept Stage
+154200 -6.58703 0 4
+# MC  Energy StageAccept Stage
+154300 -6.64755 0 4
+# MC  Energy StageAccept Stage
+154400 -6.68474 0 4
+# MC  Energy StageAccept Stage
+154500 -6.71741 0 4
+# MC  Energy StageAccept Stage
+154600 -6.76466 0 4
+# MC  Energy StageAccept Stage
+154700 -6.6508 0 4
+# MC  Energy StageAccept Stage
+154800 -6.65744 0 4
+# MC  Energy StageAccept Stage
+154900 -6.63072 0 4
+# MC  Energy StageAccept Stage
+155000 -6.65729 0 4
+# MC  Energy StageAccept Stage
+155100 -6.70737 0 4
+# MC  Energy StageAccept Stage
+155200 -6.6412 0 4
+# MC  Energy StageAccept Stage
+155300 -6.66003 0 4
+# MC  Energy StageAccept Stage
+155400 -6.67808 0 4
+# MC  Energy StageAccept Stage
+155500 -6.72941 0 4
+# MC  Energy StageAccept Stage
+155600 -6.77153 0 4
+# MC  Energy StageAccept Stage
+155700 -6.73101 0 4
+# MC  Energy StageAccept Stage
+155800 -6.69041 0 4
+# MC  Energy StageAccept Stage
+155900 -6.7382 0 4
+# MC  Energy StageAccept Stage
+156000 -6.72483 0 4
+# MC  Energy StageAccept Stage
+156100 -6.75692 0 4
+# MC  Energy StageAccept Stage
+156200 -6.62661 0 4
+# MC  Energy StageAccept Stage
+156300 -6.63196 0 4
+# MC  Energy StageAccept Stage
+156400 -6.57718 0 4
+# MC  Energy StageAccept Stage
+156500 -6.66903 0 4
+# MC  Energy StageAccept Stage
+156600 -6.71076 0 4
+# MC  Energy StageAccept Stage
+156700 -6.72008 0 4
+# MC  Energy StageAccept Stage
+156800 -6.67126 0 4
+# MC  Energy StageAccept Stage
+156900 -6.63676 0 4
+# MC  Energy StageAccept Stage
+157000 -6.68525 0 4
+# MC  Energy StageAccept Stage
+157100 -6.6939 0 4
+# MC  Energy StageAccept Stage
+157200 -6.76152 0 4
+# MC  Energy StageAccept Stage
+157300 -6.78016 0 4
+# MC  Energy StageAccept Stage
+157400 -6.6262 0 4
+# MC  Energy StageAccept Stage
+157500 -6.60715 0 4
+# MC  Energy StageAccept Stage
+157600 -6.67991 0 4
+# MC  Energy StageAccept Stage
+157700 -6.7629 0 4
+# MC  Energy StageAccept Stage
+157800 -6.73623 0 4
+# MC  Energy StageAccept Stage
+157900 -6.744 0 4
+# MC  Energy StageAccept Stage
+158000 -6.70851 0 4
+# MC  Energy StageAccept Stage
+158100 -6.73995 0 4
+# MC  Energy StageAccept Stage
+158200 -6.72896 0 4
+# MC  Energy StageAccept Stage
+158300 -6.78001 0 4
+# MC  Energy StageAccept Stage
+158400 -6.81001 0 4
+# MC  Energy StageAccept Stage
+158500 -6.73183 0 4
+# MC  Energy StageAccept Stage
+158600 -6.62216 0 4
+# MC  Energy StageAccept Stage
+158700 -6.69081 0 4
+# MC  Energy StageAccept Stage
+158800 -6.72223 0 4
+# MC  Energy StageAccept Stage
+158900 -6.67191 0 4
+# MC  Energy StageAccept Stage
+159000 -6.72915 0 4
+# MC  Energy StageAccept Stage
+159100 -6.78578 0 4
+# MC  Energy StageAccept Stage
+159200 -6.69912 0 4
+# MC  Energy StageAccept Stage
+159300 -6.76297 0 4
+# MC  Energy StageAccept Stage
+159400 -6.73076 0 4
+# MC  Energy StageAccept Stage
+159500 -6.71071 0 4
+# MC  Energy StageAccept Stage
+159600 -6.73991 0 4
+# MC  Energy StageAccept Stage
+159700 -6.64519 0 4
+# MC  Energy StageAccept Stage
+159800 -6.65173 0 4
+# MC  Energy StageAccept Stage
+159900 -6.73499 0 4
+# MC  Energy StageAccept Stage
+160000 -6.7461 0 4
+# MC  Energy StageAccept Stage
+160100 -6.68438 0 4
+# MC  Energy StageAccept Stage
+160200 -6.75203 0 4
+# MC  Energy StageAccept Stage
+160300 -6.64932 0 4
+# MC  Energy StageAccept Stage
+160400 -6.70481 0 4
+# MC  Energy StageAccept Stage
+160500 -6.6829 0 4
+# MC  Energy StageAccept Stage
+160600 -6.71249 0 4
+# MC  Energy StageAccept Stage
+160700 -6.76107 0 4
+# MC  Energy StageAccept Stage
+160800 -6.73138 0 4
+# MC  Energy StageAccept Stage
+160900 -6.62391 0 4
+# MC  Energy StageAccept Stage
+161000 -6.6612 0 4
+# MC  Energy StageAccept Stage
+161100 -6.57784 0 4
+# MC  Energy StageAccept Stage
+161200 -6.75038 0 4
+# MC  Energy StageAccept Stage
+161300 -6.82768 0 4
+# MC  Energy StageAccept Stage
+161400 -6.67611 0 4
+# MC  Energy StageAccept Stage
+161500 -6.77824 0 4
+# MC  Energy StageAccept Stage
+161600 -6.78765 0 4
+# MC  Energy StageAccept Stage
+161700 -6.71723 0 4
+# MC  Energy StageAccept Stage
+161800 -6.66324 0 4
+# MC  Energy StageAccept Stage
+161900 -6.62183 0 4
+# MC  Energy StageAccept Stage
+162000 -6.64285 0 4
+# MC  Energy StageAccept Stage
+162100 -6.7159 0 4
+# MC  Energy StageAccept Stage
+162200 -6.7998 0 4
+# MC  Energy StageAccept Stage
+162300 -6.64612 0 4
+# MC  Energy StageAccept Stage
+162400 -6.74503 0 4
+# MC  Energy StageAccept Stage
+162500 -6.65287 0 4
+# MC  Energy StageAccept Stage
+162600 -6.76298 0 4
+# MC  Energy StageAccept Stage
+162700 -6.71327 0 4
+# MC  Energy StageAccept Stage
+162800 -6.71117 0 4
+# MC  Energy StageAccept Stage
+162900 -6.71464 0 4
+# MC  Energy StageAccept Stage
+163000 -6.72959 0 4
+# MC  Energy StageAccept Stage
+163100 -6.74334 0 4
+# MC  Energy StageAccept Stage
+163200 -6.7087 0 4
+# MC  Energy StageAccept Stage
+163300 -6.68324 0 4
+# MC  Energy StageAccept Stage
+163400 -6.72364 0 4
+# MC  Energy StageAccept Stage
+163500 -6.71833 0 4
+# MC  Energy StageAccept Stage
+163600 -6.68499 0 4
+# MC  Energy StageAccept Stage
+163700 -6.68686 0 4
+# MC  Energy StageAccept Stage
+163800 -6.62983 0 4
+# MC  Energy StageAccept Stage
+163900 -6.70154 0 4
+# MC  Energy StageAccept Stage
+164000 -6.68859 0 4
+# MC  Energy StageAccept Stage
+164100 -6.67548 0 4
+# MC  Energy StageAccept Stage
+164200 -6.80439 0 4
+# MC  Energy StageAccept Stage
+164300 -6.65215 0 4
+# MC  Energy StageAccept Stage
+164400 -6.77306 0 4
+# MC  Energy StageAccept Stage
+164500 -6.70498 0 4
+# MC  Energy StageAccept Stage
+164600 -6.73308 0 4
+# MC  Energy StageAccept Stage
+164700 -6.66843 0 4
+# MC  Energy StageAccept Stage
+164800 -6.72249 0 4
+# MC  Energy StageAccept Stage
+164900 -6.69577 0 4
+# MC  Energy StageAccept Stage
+165000 -6.71201 0 4
+# MC  Energy StageAccept Stage
+165100 -6.71262 0 4
+# MC  Energy StageAccept Stage
+165200 -6.71875 0 4
+# MC  Energy StageAccept Stage
+165300 -6.74527 0 4
+# MC  Energy StageAccept Stage
+165400 -6.74295 0 4
+# MC  Energy StageAccept Stage
+165500 -6.68952 0 4
+# MC  Energy StageAccept Stage
+165600 -6.73938 0 4
+# MC  Energy StageAccept Stage
+165700 -6.70627 0 4
+# MC  Energy StageAccept Stage
+165800 -6.78543 0 4
+# MC  Energy StageAccept Stage
+165900 -6.67764 0 4
+# MC  Energy StageAccept Stage
+166000 -6.72075 0 4
+# MC  Energy StageAccept Stage
+166100 -6.71572 0 4
+# MC  Energy StageAccept Stage
+166200 -6.79025 0 4
+# MC  Energy StageAccept Stage
+166300 -6.72014 0 4
+# MC  Energy StageAccept Stage
+166400 -6.78174 0 4
+# MC  Energy StageAccept Stage
+166500 -6.71613 0 4
+# MC  Energy StageAccept Stage
+166600 -6.68335 0 4
+# MC  Energy StageAccept Stage
+166700 -6.76176 0 4
+# MC  Energy StageAccept Stage
+166800 -6.70519 0 4
+# MC  Energy StageAccept Stage
+166900 -6.69732 0 4
+# MC  Energy StageAccept Stage
+167000 -6.85295 0 4
+# MC  Energy StageAccept Stage
+167100 -6.69323 0 4
+# MC  Energy StageAccept Stage
+167200 -6.75372 0 4
+# MC  Energy StageAccept Stage
+167300 -6.71663 0 4
+# MC  Energy StageAccept Stage
+167400 -6.76141 0 4
+# MC  Energy StageAccept Stage
+167500 -6.68728 0 4
+# MC  Energy StageAccept Stage
+167600 -6.80016 0 4
+# MC  Energy StageAccept Stage
+167700 -6.7634 0 4
+# MC  Energy StageAccept Stage
+167800 -6.71115 0 4
+# MC  Energy StageAccept Stage
+167900 -6.70813 0 4
+# MC  Energy StageAccept Stage
+168000 -6.73448 0 4
+# MC  Energy StageAccept Stage
+168100 -6.70647 0 4
+# MC  Energy StageAccept Stage
+168200 -6.88275 0 4
+# MC  Energy StageAccept Stage
+168300 -6.6278 0 4
+# MC  Energy StageAccept Stage
+168400 -6.74118 0 4
+# MC  Energy StageAccept Stage
+168500 -6.65642 0 4
+# MC  Energy StageAccept Stage
+168600 -6.64464 0 4
+# MC  Energy StageAccept Stage
+168700 -6.67534 0 4
+# MC  Energy StageAccept Stage
+168800 -6.69881 0 4
+# MC  Energy StageAccept Stage
+168900 -6.75484 0 4
+# MC  Energy StageAccept Stage
+169000 -6.84914 0 4
+# MC  Energy StageAccept Stage
+169100 -6.84623 0 4
+# MC  Energy StageAccept Stage
+169200 -6.76922 0 4
+# MC  Energy StageAccept Stage
+169300 -6.65021 0 4
+# MC  Energy StageAccept Stage
+169400 -6.76025 0 4
+# MC  Energy StageAccept Stage
+169500 -6.61226 0 4
+# MC  Energy StageAccept Stage
+169600 -6.70656 0 4
+# MC  Energy StageAccept Stage
+169700 -6.73851 0 4
+# MC  Energy StageAccept Stage
+169800 -6.74511 0 4
+# MC  Energy StageAccept Stage
+169900 -6.73286 0 4
+# MC  Energy StageAccept Stage
+170000 -6.71672 0 4
+# MC  Energy StageAccept Stage
+170100 -6.61292 0 4
+# MC  Energy StageAccept Stage
+170200 -6.79872 0 4
+# MC  Energy StageAccept Stage
+170300 -6.70991 0 4
+# MC  Energy StageAccept Stage
+170400 -6.74114 0 4
+# MC  Energy StageAccept Stage
+170500 -6.74196 0 4
+# MC  Energy StageAccept Stage
+170600 -6.73041 0 4
+# MC  Energy StageAccept Stage
+170700 -6.73957 0 4
+# MC  Energy StageAccept Stage
+170800 -6.71151 0 4
+# MC  Energy StageAccept Stage
+170900 -6.74709 0 4
+# MC  Energy StageAccept Stage
+171000 -6.82162 0 4
+# MC  Energy StageAccept Stage
+171100 -6.70321 0 4
+# MC  Energy StageAccept Stage
+171200 -6.75308 0 4
+# MC  Energy StageAccept Stage
+171300 -6.68644 0 4
+# MC  Energy StageAccept Stage
+171400 -6.73942 0 4
+# MC  Energy StageAccept Stage
+171500 -6.78516 0 4
+# MC  Energy StageAccept Stage
+171600 -6.73162 0 4
+# MC  Energy StageAccept Stage
+171700 -6.70738 0 4
+# MC  Energy StageAccept Stage
+171800 -6.63277 0 4
+# MC  Energy StageAccept Stage
+171900 -6.74582 0 4
+# MC  Energy StageAccept Stage
+172000 -6.65049 0 4
+# MC  Energy StageAccept Stage
+172100 -6.82266 0 4
+# MC  Energy StageAccept Stage
+172200 -6.7949 0 4
+# MC  Energy StageAccept Stage
+172300 -6.77509 0 4
+# MC  Energy StageAccept Stage
+172400 -6.73781 0 4
+# MC  Energy StageAccept Stage
+172500 -6.65026 0 4
+# MC  Energy StageAccept Stage
+172600 -6.73109 0 4
+# MC  Energy StageAccept Stage
+172700 -6.6328 0 4
+# MC  Energy StageAccept Stage
+172800 -6.8019 0 4
+# MC  Energy StageAccept Stage
+172900 -6.74786 0 4
+# MC  Energy StageAccept Stage
+173000 -6.77827 0 4
+# MC  Energy StageAccept Stage
+173100 -6.74255 0 4
+# MC  Energy StageAccept Stage
+173200 -6.66446 0 4
+# MC  Energy StageAccept Stage
+173300 -6.73863 0 4
+# MC  Energy StageAccept Stage
+173400 -6.73333 0 4
+# MC  Energy StageAccept Stage
+173500 -6.69593 0 4
+# MC  Energy StageAccept Stage
+173600 -6.75573 0 4
+# MC  Energy StageAccept Stage
+173700 -6.69556 0 4
+# MC  Energy StageAccept Stage
+173800 -6.75169 0 4
+# MC  Energy StageAccept Stage
+173900 -6.66988 0 4
+# MC  Energy StageAccept Stage
+174000 -6.67083 0 4
+# MC  Energy StageAccept Stage
+174100 -6.66085 0 4
+# MC  Energy StageAccept Stage
+174200 -6.67502 0 4
+# MC  Energy StageAccept Stage
+174300 -6.71034 0 4
+# MC  Energy StageAccept Stage
+174400 -6.69079 0 4
+# MC  Energy StageAccept Stage
+174500 -6.7407 0 4
+# MC  Energy StageAccept Stage
+174600 -6.72759 0 4
+# MC  Energy StageAccept Stage
+174700 -6.60926 0 4
+# MC  Energy StageAccept Stage
+174800 -6.7017 0 4
+# MC  Energy StageAccept Stage
+174900 -6.61397 0 4
+# MC  Energy StageAccept Stage
+175000 -6.7421 0 4
+# MC  Energy StageAccept Stage
+175100 -6.66557 0 4
+# MC  Energy StageAccept Stage
+175200 -6.60572 0 4
+# MC  Energy StageAccept Stage
+175300 -6.72151 0 4
+# MC  Energy StageAccept Stage
+175400 -6.68683 0 4
+# MC  Energy StageAccept Stage
+175500 -6.57092 0 4
+# MC  Energy StageAccept Stage
+175600 -6.74824 0 4
+# MC  Energy StageAccept Stage
+175700 -6.75462 0 4
+# MC  Energy StageAccept Stage
+175800 -6.73514 0 4
+# MC  Energy StageAccept Stage
+175900 -6.72926 0 4
+# MC  Energy StageAccept Stage
+176000 -6.65072 0 4
+# MC  Energy StageAccept Stage
+176100 -6.78527 0 4
+# MC  Energy StageAccept Stage
+176200 -6.7269 0 4
+# MC  Energy StageAccept Stage
+176300 -6.6942 0 4
+# MC  Energy StageAccept Stage
+176400 -6.61164 0 4
+# MC  Energy StageAccept Stage
+176500 -6.78441 0 4
+# MC  Energy StageAccept Stage
+176600 -6.77193 0 4
+# MC  Energy StageAccept Stage
+176700 -6.72328 0 4
+# MC  Energy StageAccept Stage
+176800 -6.65103 0 4
+# MC  Energy StageAccept Stage
+176900 -6.77372 0 4
+# MC  Energy StageAccept Stage
+177000 -6.76627 0 4
+# MC  Energy StageAccept Stage
+177100 -6.72975 0 4
+# MC  Energy StageAccept Stage
+177200 -6.724 0 4
+# MC  Energy StageAccept Stage
+177300 -6.70639 0 4
+# MC  Energy StageAccept Stage
+177400 -6.73987 0 4
+# MC  Energy StageAccept Stage
+177500 -6.69312 0 4
+# MC  Energy StageAccept Stage
+177600 -6.64599 0 4
+# MC  Energy StageAccept Stage
+177700 -6.73547 0 4
+# MC  Energy StageAccept Stage
+177800 -6.67374 0 4
+# MC  Energy StageAccept Stage
+177900 -6.71905 0 4
+# MC  Energy StageAccept Stage
+178000 -6.71597 0 4
+# MC  Energy StageAccept Stage
+178100 -6.75561 0 4
+# MC  Energy StageAccept Stage
+178200 -6.80062 0 4
+# MC  Energy StageAccept Stage
+178300 -6.77009 0 4
+# MC  Energy StageAccept Stage
+178400 -6.74638 0 4
+# MC  Energy StageAccept Stage
+178500 -6.69604 0 4
+# MC  Energy StageAccept Stage
+178600 -6.5901 0 4
+# MC  Energy StageAccept Stage
+178700 -6.59303 0 4
+# MC  Energy StageAccept Stage
+178800 -6.61307 0 4
+# MC  Energy StageAccept Stage
+178900 -6.67858 0 4
+# MC  Energy StageAccept Stage
+179000 -6.68455 0 4
+# MC  Energy StageAccept Stage
+179100 -6.59874 0 4
+# MC  Energy StageAccept Stage
+179200 -6.56711 0 4
+# MC  Energy StageAccept Stage
+179300 -6.63477 0 4
+# MC  Energy StageAccept Stage
+179400 -6.54227 0 4
+# MC  Energy StageAccept Stage
+179500 -6.59692 0 4
+# MC  Energy StageAccept Stage
+179600 -6.60307 0 4
+# MC  Energy StageAccept Stage
+179700 -6.66356 0 4
+# MC  Energy StageAccept Stage
+179800 -6.71817 0 4
+# MC  Energy StageAccept Stage
+179900 -6.59834 0 4
+# MC  Energy StageAccept Stage
+180000 -6.60227 0 4
+# MC  Energy StageAccept Stage
+180100 -6.6592 0 4
+# MC  Energy StageAccept Stage
+180200 -6.67726 0 4
+# MC  Energy StageAccept Stage
+180300 -6.70607 0 4
+# MC  Energy StageAccept Stage
+180400 -6.7433 0 4
+# MC  Energy StageAccept Stage
+180500 -6.6749 0 4
+# MC  Energy StageAccept Stage
+180600 -6.65292 0 4
+# MC  Energy StageAccept Stage
+180700 -6.73495 0 4
+# MC  Energy StageAccept Stage
+180800 -6.73918 0 4
+# MC  Energy StageAccept Stage
+180900 -6.74084 0 4
+# MC  Energy StageAccept Stage
+181000 -6.66411 0 4
+# MC  Energy StageAccept Stage
+181100 -6.69676 0 4
+# MC  Energy StageAccept Stage
+181200 -6.62007 0 4
+# MC  Energy StageAccept Stage
+181300 -6.58318 0 4
+# MC  Energy StageAccept Stage
+181400 -6.58586 0 4
+# MC  Energy StageAccept Stage
+181500 -6.8017 0 4
+# MC  Energy StageAccept Stage
+181600 -6.61394 0 4
+# MC  Energy StageAccept Stage
+181700 -6.68562 0 4
+# MC  Energy StageAccept Stage
+181800 -6.66796 0 4
+# MC  Energy StageAccept Stage
+181900 -6.62417 0 4
+# MC  Energy StageAccept Stage
+182000 -6.68572 0 4
+# MC  Energy StageAccept Stage
+182100 -6.68938 0 4
+# MC  Energy StageAccept Stage
+182200 -6.64347 0 4
+# MC  Energy StageAccept Stage
+182300 -6.67419 0 4
+# MC  Energy StageAccept Stage
+182400 -6.5668 0 4
+# MC  Energy StageAccept Stage
+182500 -6.68109 0 4
+# MC  Energy StageAccept Stage
+182600 -6.74905 0 4
+# MC  Energy StageAccept Stage
+182700 -6.67648 0 4
+# MC  Energy StageAccept Stage
+182800 -6.61709 0 4
+# MC  Energy StageAccept Stage
+182900 -6.71428 0 4
+# MC  Energy StageAccept Stage
+183000 -6.67031 0 4
+# MC  Energy StageAccept Stage
+183100 -6.65644 0 4
+# MC  Energy StageAccept Stage
+183200 -6.68331 0 4
+# MC  Energy StageAccept Stage
+183300 -6.72165 0 4
+# MC  Energy StageAccept Stage
+183400 -6.72079 0 4
+# MC  Energy StageAccept Stage
+183500 -6.66695 0 4
+# MC  Energy StageAccept Stage
+183600 -6.74474 0 4
+# MC  Energy StageAccept Stage
+183700 -6.66195 0 4
+# MC  Energy StageAccept Stage
+183800 -6.77025 0 4
+# MC  Energy StageAccept Stage
+183900 -6.73609 0 4
+# MC  Energy StageAccept Stage
+184000 -6.71707 0 4
+# MC  Energy StageAccept Stage
+184100 -6.60035 0 4
+# MC  Energy StageAccept Stage
+184200 -6.6983 0 4
+# MC  Energy StageAccept Stage
+184300 -6.72219 0 4
+# MC  Energy StageAccept Stage
+184400 -6.71995 0 4
+# MC  Energy StageAccept Stage
+184500 -6.72261 0 4
+# MC  Energy StageAccept Stage
+184600 -6.66887 0 4
+# MC  Energy StageAccept Stage
+184700 -6.60306 0 4
+# MC  Energy StageAccept Stage
+184800 -6.68212 0 4
+# MC  Energy StageAccept Stage
+184900 -6.80119 0 4
+# MC  Energy StageAccept Stage
+185000 -6.67457 0 4
+# MC  Energy StageAccept Stage
+185100 -6.69747 0 4
+# MC  Energy StageAccept Stage
+185200 -6.80062 0 4
+# MC  Energy StageAccept Stage
+185300 -6.75843 0 4
+# MC  Energy StageAccept Stage
+185400 -6.72672 0 4
+# MC  Energy StageAccept Stage
+185500 -6.76291 0 4
+# MC  Energy StageAccept Stage
+185600 -6.79649 0 4
+# MC  Energy StageAccept Stage
+185700 -6.70123 0 4
+# MC  Energy StageAccept Stage
+185800 -6.68314 0 4
+# MC  Energy StageAccept Stage
+185900 -6.62924 0 4
+# MC  Energy StageAccept Stage
+186000 -6.63319 0 4
+# MC  Energy StageAccept Stage
+186100 -6.71924 0 4
+# MC  Energy StageAccept Stage
+186200 -6.70407 0 4
+# MC  Energy StageAccept Stage
+186300 -6.73953 0 4
+# MC  Energy StageAccept Stage
+186400 -6.70406 0 4
+# MC  Energy StageAccept Stage
+186500 -6.69816 0 4
+# MC  Energy StageAccept Stage
+186600 -6.7287 0 4
+# MC  Energy StageAccept Stage
+186700 -6.62277 0 4
+# MC  Energy StageAccept Stage
+186800 -6.77878 0 4
+# MC  Energy StageAccept Stage
+186900 -6.71908 0 4
+# MC  Energy StageAccept Stage
+187000 -6.7073 0 4
+# MC  Energy StageAccept Stage
+187100 -6.76309 0 4
+# MC  Energy StageAccept Stage
+187200 -6.7037 0 4
+# MC  Energy StageAccept Stage
+187300 -6.74657 0 4
+# MC  Energy StageAccept Stage
+187400 -6.67475 0 4
+# MC  Energy StageAccept Stage
+187500 -6.67666 0 4
+# MC  Energy StageAccept Stage
+187600 -6.66092 0 4
+# MC  Energy StageAccept Stage
+187700 -6.65287 0 4
+# MC  Energy StageAccept Stage
+187800 -6.70949 0 4
+# MC  Energy StageAccept Stage
+187900 -6.74921 0 4
+# MC  Energy StageAccept Stage
+188000 -6.68812 0 4
+# MC  Energy StageAccept Stage
+188100 -6.75357 0 4
+# MC  Energy StageAccept Stage
+188200 -6.75535 0 4
+# MC  Energy StageAccept Stage
+188300 -6.69932 0 4
+# MC  Energy StageAccept Stage
+188400 -6.73714 0 4
+# MC  Energy StageAccept Stage
+188500 -6.69812 0 4
+# MC  Energy StageAccept Stage
+188600 -6.69928 0 4
+# MC  Energy StageAccept Stage
+188700 -6.74754 0 4
+# MC  Energy StageAccept Stage
+188800 -6.79284 0 4
+# MC  Energy StageAccept Stage
+188900 -6.75827 0 4
+# MC  Energy StageAccept Stage
+189000 -6.7217 0 4
+# MC  Energy StageAccept Stage
+189100 -6.75797 0 4
+# MC  Energy StageAccept Stage
+189200 -6.75518 0 4
+# MC  Energy StageAccept Stage
+189300 -6.74957 0 4
+# MC  Energy StageAccept Stage
+189400 -6.7408 0 4
+# MC  Energy StageAccept Stage
+189500 -6.78597 0 4
+# MC  Energy StageAccept Stage
+189600 -6.71409 0 4
+# MC  Energy StageAccept Stage
+189700 -6.71701 0 4
+# MC  Energy StageAccept Stage
+189800 -6.70572 0 4
+# MC  Energy StageAccept Stage
+189900 -6.77645 0 4
+# MC  Energy StageAccept Stage
+190000 -6.77374 0 4
+# MC  Energy StageAccept Stage
+190100 -6.72525 0 4
+# MC  Energy StageAccept Stage
+190200 -6.82761 0 4
+# MC  Energy StageAccept Stage
+190300 -6.68493 0 4
+# MC  Energy StageAccept Stage
+190400 -6.7111 0 4
+# MC  Energy StageAccept Stage
+190500 -6.77721 0 4
+# MC  Energy StageAccept Stage
+190600 -6.794 0 4
+# MC  Energy StageAccept Stage
+190700 -6.70771 0 4
+# MC  Energy StageAccept Stage
+190800 -6.73716 0 4
+# MC  Energy StageAccept Stage
+190900 -6.66791 0 4
+# MC  Energy StageAccept Stage
+191000 -6.74635 0 4
+# MC  Energy StageAccept Stage
+191100 -6.70654 0 4
+# MC  Energy StageAccept Stage
+191200 -6.74005 0 4
+# MC  Energy StageAccept Stage
+191300 -6.73795 0 4
+# MC  Energy StageAccept Stage
+191400 -6.67427 0 4
+# MC  Energy StageAccept Stage
+191500 -6.69079 0 4
+# MC  Energy StageAccept Stage
+191600 -6.78637 0 4
+# MC  Energy StageAccept Stage
+191700 -6.68782 0 4
+# MC  Energy StageAccept Stage
+191800 -6.73446 0 4
+# MC  Energy StageAccept Stage
+191900 -6.73972 0 4
+# MC  Energy StageAccept Stage
+192000 -6.71033 0 4
+# MC  Energy StageAccept Stage
+192100 -6.6843 0 4
+# MC  Energy StageAccept Stage
+192200 -6.71474 0 4
+# MC  Energy StageAccept Stage
+192300 -6.71129 0 4
+# MC  Energy StageAccept Stage
+192400 -6.65701 0 4
+# MC  Energy StageAccept Stage
+192500 -6.70545 0 4
+# MC  Energy StageAccept Stage
+192600 -6.74287 0 4
+# MC  Energy StageAccept Stage
+192700 -6.73981 0 4
+# MC  Energy StageAccept Stage
+192800 -6.71179 0 4
+# MC  Energy StageAccept Stage
+192900 -6.68589 0 4
+# MC  Energy StageAccept Stage
+193000 -6.69852 0 4
+# MC  Energy StageAccept Stage
+193100 -6.78948 0 4
+# MC  Energy StageAccept Stage
+193200 -6.83056 0 4
+# MC  Energy StageAccept Stage
+193300 -6.69957 0 4
+# MC  Energy StageAccept Stage
+193400 -6.75091 0 4
+# MC  Energy StageAccept Stage
+193500 -6.67263 0 4
+# MC  Energy StageAccept Stage
+193600 -6.7254 0 4
+# MC  Energy StageAccept Stage
+193700 -6.63615 0 4
+# MC  Energy StageAccept Stage
+193800 -6.72007 0 4
+# MC  Energy StageAccept Stage
+193900 -6.8432 0 4
+# MC  Energy StageAccept Stage
+194000 -6.75533 0 4
+# MC  Energy StageAccept Stage
+194100 -6.70705 0 4
+# MC  Energy StageAccept Stage
+194200 -6.66717 0 4
+# MC  Energy StageAccept Stage
+194300 -6.75915 0 4
+# MC  Energy StageAccept Stage
+194400 -6.79268 0 4
+# MC  Energy StageAccept Stage
+194500 -6.7354 0 4
+# MC  Energy StageAccept Stage
+194600 -6.62479 0 4
+# MC  Energy StageAccept Stage
+194700 -6.70857 0 4
+# MC  Energy StageAccept Stage
+194800 -6.73865 0 4
+# MC  Energy StageAccept Stage
+194900 -6.72459 0 4
+# MC  Energy StageAccept Stage
+195000 -6.68806 0 4
+# MC  Energy StageAccept Stage
+195100 -6.68741 0 4
+# MC  Energy StageAccept Stage
+195200 -6.81868 0 4
+# MC  Energy StageAccept Stage
+195300 -6.67754 0 4
+# MC  Energy StageAccept Stage
+195400 -6.74337 0 4
+# MC  Energy StageAccept Stage
+195500 -6.69771 0 4
+# MC  Energy StageAccept Stage
+195600 -6.62859 0 4
+# MC  Energy StageAccept Stage
+195700 -6.68429 0 4
+# MC  Energy StageAccept Stage
+195800 -6.72255 0 4
+# MC  Energy StageAccept Stage
+195900 -6.68212 0 4
+# MC  Energy StageAccept Stage
+196000 -6.74779 0 4
+# MC  Energy StageAccept Stage
+196100 -6.73065 0 4
+# MC  Energy StageAccept Stage
+196200 -6.74928 0 4
+# MC  Energy StageAccept Stage
+196300 -6.76192 0 4
+# MC  Energy StageAccept Stage
+196400 -6.68449 0 4
+# MC  Energy StageAccept Stage
+196500 -6.73131 0 4
+# MC  Energy StageAccept Stage
+196600 -6.73091 0 4
+# MC  Energy StageAccept Stage
+196700 -6.69588 0 4
+# MC  Energy StageAccept Stage
+196800 -6.75459 0 4
+# MC  Energy StageAccept Stage
+196900 -6.75773 0 4
+# MC  Energy StageAccept Stage
+197000 -6.66144 0 4
+# MC  Energy StageAccept Stage
+197100 -6.7443 0 4
+# MC  Energy StageAccept Stage
+197200 -6.75678 0 4
+# MC  Energy StageAccept Stage
+197300 -6.69643 0 4
+# MC  Energy StageAccept Stage
+197400 -6.77057 0 4
+# MC  Energy StageAccept Stage
+197500 -6.68485 0 4
+# MC  Energy StageAccept Stage
+197600 -6.75319 0 4
+# MC  Energy StageAccept Stage
+197700 -6.6827 0 4
+# MC  Energy StageAccept Stage
+197800 -6.65542 0 4
+# MC  Energy StageAccept Stage
+197900 -6.72511 0 4
+# MC  Energy StageAccept Stage
+198000 -6.65399 0 4
+# MC  Energy StageAccept Stage
+198100 -6.77286 0 4
+# MC  Energy StageAccept Stage
+198200 -6.68863 0 4
+# MC  Energy StageAccept Stage
+198300 -6.74877 0 4
+# MC  Energy StageAccept Stage
+198400 -6.73214 0 4
+# MC  Energy StageAccept Stage
+198500 -6.65858 0 4
+# MC  Energy StageAccept Stage
+198600 -6.67525 0 4
+# MC  Energy StageAccept Stage
+198700 -6.72893 0 4
+# MC  Energy StageAccept Stage
+198800 -6.67205 0 4
+# MC  Energy StageAccept Stage
+198900 -6.62082 0 4
+# MC  Energy StageAccept Stage
+199000 -6.70299 0 4
+# MC  Energy StageAccept Stage
+199100 -6.6429 0 4
+# MC  Energy StageAccept Stage
+199200 -6.7167 0 4
+# MC  Energy StageAccept Stage
+199300 -6.64871 0 4
+# MC  Energy StageAccept Stage
+199400 -6.67504 0 4
+# MC  Energy StageAccept Stage
+199500 -6.71622 0 4
+# MC  Energy StageAccept Stage
+199600 -6.72024 0 4
+# MC  Energy StageAccept Stage
+199700 -6.68581 0 4
+# MC  Energy StageAccept Stage
+199800 -6.669 0 4
+# MC  Energy StageAccept Stage
+199900 -6.69861 0 4
+# MC  Energy StageAccept Stage
+200000 -6.75627 0 4
+measure count 1000
+Summarising...

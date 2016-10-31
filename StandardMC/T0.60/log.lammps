@@ -1,0 +1,33 @@
+LAMMPS (16 Feb 2016)
+# 3d Lennard-Jones melt
+
+units		lj
+atom_style	atomic
+boundary p p p
+
+region cube block 0 5.64622 0 5.64622 0 5.64622
+create_box 2 cube
+Created orthogonal box = (0 0 0) to (5.64622 5.64622 5.64622)
+  1 by 2 by 2 MPI processor grid
+create_atoms 2 random 43 4321 cube
+Created 43 atoms
+create_atoms 1 random 173 1234 cube
+Created 173 atoms
+
+
+
+# KA mixture
+pair_style lj/cut 0.0
+pair_coeff 1 1 1 1 2.5
+pair_coeff 1 2 1.5 0.8 2
+pair_coeff 2 2 0.5 0.88 2.2
+mass 1 1
+mass 2 1
+
+pair_modify shift yes
+
+
+#read_dump last.xyz 0 x y z box no format xyz replace yes
+min_style fire
+
+log energies.log

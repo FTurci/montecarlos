@@ -1,0 +1,43 @@
+# 3d Lennard-Jones melt
+
+units		lj
+atom_style	atomic
+boundary p p p
+
+region cube block 0 5.64622 0 5.64622 0 5.64622
+create_box 2 cube 
+create_atoms 2 random 43 4321 cube
+create_atoms 1 random 173 1234 cube
+
+
+
+# KA mixture
+pair_style lj/cut 0.0
+pair_coeff 1 1 1 1 2.5
+pair_coeff 1 2 1.5 0.8 2
+pair_coeff 2 2 0.5 0.88 2.2
+mass 1 1
+mass 2 1
+
+pair_modify shift yes
+
+
+#read_dump last.xyz 0 x y z box no format xyz replace yes
+min_style fire
+
+log energies.log
+variable a loop 2300
+
+label loop
+
+variable frame equal $a#print "Thihs is $a"
+read_dump ${tj} ${frame} x y z box no format xyz replace yes
+min_style fire
+minimize 1.0e-9 1.0e-9 10000 10000
+
+
+next a
+jump SELF loop
+
+
+

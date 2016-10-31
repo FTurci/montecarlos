@@ -1,0 +1,11 @@
+Temperature 0.60
+Seed 1
+EqSteps 100000
+McSteps 100000
+EqEvalSteps 1000
+McEvalSteps 1000
+EqSnapSteps 1
+McSnapSteps 0
+MaxDisplacement 0.1
+LJCutoff 2.5
+StageOnOff 0
